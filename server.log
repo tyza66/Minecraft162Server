@@ -1,0 +1,266 @@
+2022-07-25 20:07:47 [INFO] Starting minecraft server version 1.6.2
+2022-07-25 20:07:47 [INFO] MinecraftForge v
+2022-07-25 20:07:47 [INFO] 9.10.0.804
+2022-07-25 20:07:47 [INFO]  Initialized
+
+2022-07-25 20:07:47 [INFO] Replaced 101 ore recipies
+2022-07-25 20:07:48 [INFO] Loading properties
+2022-07-25 20:07:48 [INFO] Default game type: SURVIVAL
+2022-07-25 20:07:48 [INFO] Generating keypair
+2022-07-25 20:07:48 [INFO] Starting Minecraft server on *:25565
+2022-07-25 20:07:49 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-36 (MC: 1.6.2) (Implementing API version 1.6.2-R0.1-SNAPSHOT)
+2022-07-25 20:07:49 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼þ¡£)
+2022-07-25 20:07:49 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼þ¡£)
+2022-07-25 20:07:49 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-07-25 20:07:49 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-07-25 20:07:49 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-07-25 20:07:49 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-07-25 20:07:49 [INFO] Preparing level "world"
+2022-07-25 20:07:49 [INFO] Registered command debug with permission node vanilla.command.debug
+2022-07-25 20:07:49 [INFO] Registered command spreadplayers with permission node vanilla.command.spreadplayers
+2022-07-25 20:07:49 [INFO] Registered command playsound with permission node vanilla.command.playsound
+2022-07-25 20:07:49 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2022-07-25 20:07:49 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 4197503131016627863)
+2022-07-25 20:07:50 [INFO] Preparing spawn area: 19%
+2022-07-25 20:07:51 [INFO] Preparing spawn area: 48%
+2022-07-25 20:07:52 [INFO] Preparing spawn area: 90%
+2022-07-25 20:07:53 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 4197503131016627863)
+2022-07-25 20:07:54 [INFO] Preparing spawn area: 89%
+2022-07-25 20:07:54 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 4197503131016627863)
+2022-07-25 20:07:55 [INFO] Preparing spawn area: 39%
+2022-07-25 20:07:56 [INFO] Preparing spawn area: 81%
+2022-07-25 20:07:56 [INFO] Done (7.043s)! For help, type "help" or "?"
+2022-07-25 20:08:35 [SEVERE] Reached end of stream for /127.0.0.1
+2022-07-25 20:08:38 [SEVERE] Reached end of stream for /127.0.0.1
+2022-07-25 20:08:38 [INFO] Disconnecting shun [/127.0.0.1:64530]: Internal server error
+2022-07-25 20:08:38 [WARNING] Failed to handle packet for shun [/127.0.0.1:64530]: java.lang.NullPointerException
+java.lang.NullPointerException
+	at net.minecraft.server.management.ServerConfigurationManager.attemptLogin(ServerConfigurationManager.java:484)
+	at net.minecraft.network.NetLoginHandler.completeConnection(NetLoginHandler.java:201)
+	at cpw.mods.fml.common.network.FMLNetworkHandler.handleClientConnection(FMLNetworkHandler.java:171)
+	at cpw.mods.fml.common.network.FMLNetworkHandler.onConnectionReceivedFromClient(FMLNetworkHandler.java:124)
+	at net.minecraft.network.NetLoginHandler.func_72529_d(NetLoginHandler.java:190)
+	at net.minecraft.network.NetLoginHandler.func_72532_c(NetLoginHandler.java:80)
+	at net.minecraft.server.ServerListenThread.func_71766_a(ServerListenThread.java:57)
+	at net.minecraft.server.dedicated.DedicatedServerListenThread.func_71747_b(DedicatedServerListenThread.java:33)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:872)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:318)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:741)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:625)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2022-07-25 20:09:37 [INFO] Unknown command. Type "help" for help.[m
+2022-07-25 20:09:42 [INFO] [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
+2022-07-25 20:09:42 [INFO] [0;37;22mUse /help [n] to get page n of help.[m
+2022-07-25 20:09:42 [INFO] [0;33;22mAliases: [0;37;1mLists command aliases[m
+2022-07-25 20:09:42 [INFO] [0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/ban: [0;37;1mPrevents the specified player from using this server[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/ban-ip: [0;37;1mPrevents the specified IP address from using this server[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/banlist: [0;37;1mView all players banned from this server[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/clear: [0;37;1mClears the player's inventory. Can specify item and data filters too.[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/defaultgamemode: [0;37;1mSet the default gamemode[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/deop: [0;37;1mTakes the specified player's operator status[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/difficulty: [0;37;1mSets the game difficulty[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/effect: [0;37;1mAdds/Removes effects on players[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/enchant: [0;37;1mAdds enchantments to the item the player is currently holding. Specify 0 for the level to remove an enchantment. Specify force to ignore normal enchantment restrictions[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/gamemode: [0;37;1mChanges the player to a specific game mode[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/gamerule: [0;37;1mSets a server's game rules[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/give: [0;37;1mGives the specified player a certain amount of items[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/help: [0;37;1mShows the help menu[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/kick: [0;37;1mRemoves the specified player from the server[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/kill: [0;37;1mCommits suicide, only usable as a player[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/list: [0;37;1mLists all online players[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/me: [0;37;1mPerforms the specified action in chat[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/op: [0;37;1mGives the specified player operator status[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/pardon: [0;37;1mAllows the specified player to use this server[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/pardon-ip: [0;37;1mAllows the specified IP address to use this server[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/restart: [0;37;1mRestarts the server[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/save-all: [0;37;1mSaves the server to disk[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/save-off: [0;37;1mDisables server autosaving[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/save-on: [0;37;1mEnables server autosaving[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/say: [0;37;1mBroadcasts the given message as the console[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/scoreboard: [0;37;1mScoreboard control[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/seed: [0;37;1mShows the world seed[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/spawnpoint: [0;37;1mSets a player's spawn point[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/stop: [0;37;1mStops the server with optional reason[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/tell: [0;37;1mSends a private message to the given player[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/testfor: [0;37;1mTests whether a specifed player is online[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/time: [0;37;1mChanges the time on each world[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/timings: [0;37;1mRecords timings for all plugin events[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/toggledownfall: [0;37;1mToggles rain on/off on a given world[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/tp: [0;37;1mTeleports the given player (or yourself) to another player or coordinates[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/tps: [0;37;1mGets the current ticks per second for the server[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/weather: [0;37;1mChanges the weather[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/whitelist: [0;37;1mManages the list of players allowed to use this server[m
+2022-07-25 20:09:42 [INFO] [0;33;22m/xp: [0;37;1mGives the specified player a certain amount of experience. Specify <amount>L to give levels instead, with a negative amount resulting in taking levels.[m
+2022-07-25 20:10:16 [INFO] Unknown command. Type "help" for help.[m
+2022-07-25 20:10:23 [INFO] CONSOLE: Opped shun[m
+2022-07-25 20:10:39 [INFO] CONSOLE: Added ll to white-list[m
+2022-07-25 20:10:48 [INFO] CONSOLE: Added shun to white-list[m
+2022-07-25 20:10:53 [SEVERE] Reached end of stream for /127.0.0.1
+2022-07-25 20:10:54 [SEVERE] Reached end of stream for /127.0.0.1
+2022-07-25 20:10:54 [INFO] Disconnecting shun [/127.0.0.1:65111]: Internal server error
+2022-07-25 20:10:54 [WARNING] Failed to handle packet for shun [/127.0.0.1:65111]: java.lang.NullPointerException
+java.lang.NullPointerException
+	at net.minecraft.server.management.ServerConfigurationManager.attemptLogin(ServerConfigurationManager.java:484)
+	at net.minecraft.network.NetLoginHandler.completeConnection(NetLoginHandler.java:201)
+	at cpw.mods.fml.common.network.FMLNetworkHandler.handleClientConnection(FMLNetworkHandler.java:171)
+	at cpw.mods.fml.common.network.FMLNetworkHandler.onConnectionReceivedFromClient(FMLNetworkHandler.java:124)
+	at net.minecraft.network.NetLoginHandler.func_72529_d(NetLoginHandler.java:190)
+	at net.minecraft.network.NetLoginHandler.func_72532_c(NetLoginHandler.java:80)
+	at net.minecraft.server.ServerListenThread.func_71766_a(ServerListenThread.java:57)
+	at net.minecraft.server.dedicated.DedicatedServerListenThread.func_71747_b(DedicatedServerListenThread.java:33)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:872)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:318)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:741)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:625)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2022-07-25 20:12:28 [SEVERE] Reached end of stream for /127.0.0.1
+2022-07-25 20:12:29 [SEVERE] Reached end of stream for /127.0.0.1
+2022-07-25 20:12:29 [INFO] Disconnecting shun [/127.0.0.1:49177]: Internal server error
+2022-07-25 20:12:29 [WARNING] Failed to handle packet for shun [/127.0.0.1:49177]: java.lang.NullPointerException
+java.lang.NullPointerException
+	at net.minecraft.server.management.ServerConfigurationManager.attemptLogin(ServerConfigurationManager.java:484)
+	at net.minecraft.network.NetLoginHandler.completeConnection(NetLoginHandler.java:201)
+	at cpw.mods.fml.common.network.FMLNetworkHandler.handleClientConnection(FMLNetworkHandler.java:171)
+	at cpw.mods.fml.common.network.FMLNetworkHandler.onConnectionReceivedFromClient(FMLNetworkHandler.java:124)
+	at net.minecraft.network.NetLoginHandler.func_72529_d(NetLoginHandler.java:190)
+	at net.minecraft.network.NetLoginHandler.func_72532_c(NetLoginHandler.java:80)
+	at net.minecraft.server.ServerListenThread.func_71766_a(ServerListenThread.java:57)
+	at net.minecraft.server.dedicated.DedicatedServerListenThread.func_71747_b(DedicatedServerListenThread.java:33)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:872)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:318)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:741)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:625)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2022-07-25 20:12:32 [SEVERE] Reached end of stream for /127.0.0.1
+2022-07-25 20:13:39 [SEVERE] Reached end of stream for /127.0.0.1
+2022-07-25 20:13:41 [SEVERE] Reached end of stream for /127.0.0.1
+2022-07-25 20:13:41 [INFO] Disconnecting shun [/127.0.0.1:49448]: Internal server error
+2022-07-25 20:13:41 [WARNING] Failed to handle packet for shun [/127.0.0.1:49448]: java.lang.NullPointerException
+java.lang.NullPointerException
+	at net.minecraft.server.management.ServerConfigurationManager.attemptLogin(ServerConfigurationManager.java:484)
+	at net.minecraft.network.NetLoginHandler.completeConnection(NetLoginHandler.java:201)
+	at cpw.mods.fml.common.network.FMLNetworkHandler.handleClientConnection(FMLNetworkHandler.java:171)
+	at cpw.mods.fml.common.network.FMLNetworkHandler.onConnectionReceivedFromClient(FMLNetworkHandler.java:124)
+	at net.minecraft.network.NetLoginHandler.func_72529_d(NetLoginHandler.java:190)
+	at net.minecraft.network.NetLoginHandler.func_72532_c(NetLoginHandler.java:80)
+	at net.minecraft.server.ServerListenThread.func_71766_a(ServerListenThread.java:57)
+	at net.minecraft.server.dedicated.DedicatedServerListenThread.func_71747_b(DedicatedServerListenThread.java:33)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:872)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:318)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:741)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:625)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2022-07-25 20:17:01 [INFO] Starting minecraft server version 1.6.2
+2022-07-25 20:17:01 [INFO] MinecraftForge v
+2022-07-25 20:17:01 [INFO] 9.10.0.804
+2022-07-25 20:17:01 [INFO]  Initialized
+
+2022-07-25 20:17:01 [INFO] Replaced 101 ore recipies
+2022-07-25 20:17:02 [INFO] Loading properties
+2022-07-25 20:17:02 [INFO] Default game type: SURVIVAL
+2022-07-25 20:17:02 [INFO] Generating keypair
+2022-07-25 20:17:02 [INFO] Starting Minecraft server on *:25565
+2022-07-25 20:17:02 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-36 (MC: 1.6.2) (Implementing API version 1.6.2-R0.1-SNAPSHOT)
+2022-07-25 20:17:03 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-07-25 20:17:03 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-07-25 20:17:03 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-07-25 20:17:03 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-07-25 20:17:03 [INFO] Preparing level "world"
+2022-07-25 20:17:03 [INFO] Registered command debug with permission node vanilla.command.debug
+2022-07-25 20:17:03 [INFO] Registered command spreadplayers with permission node vanilla.command.spreadplayers
+2022-07-25 20:17:03 [INFO] Registered command playsound with permission node vanilla.command.playsound
+2022-07-25 20:17:03 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2022-07-25 20:17:03 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 4349532597104456793)
+2022-07-25 20:17:04 [INFO] Preparing spawn area: 13%
+2022-07-25 20:17:05 [INFO] Preparing spawn area: 31%
+2022-07-25 20:17:06 [INFO] Preparing spawn area: 73%
+2022-07-25 20:17:07 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 4197503131016627863)
+2022-07-25 20:17:07 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 4349532597104456793)
+2022-07-25 20:17:07 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-07-25 20:17:07 [INFO] Done (4.489s)! For help, type "help" or "?"
+2022-07-25 20:17:08 [SEVERE] Reached end of stream for /127.0.0.1
+2022-07-25 20:17:12 [SEVERE] Reached end of stream for /127.0.0.1
+2022-07-25 20:17:13 [SEVERE] Reached end of stream for /127.0.0.1
+2022-07-25 20:17:14 [SEVERE] Reached end of stream for /127.0.0.1
+2022-07-25 20:17:15 [SEVERE] Reached end of stream for /127.0.0.1
+2022-07-25 20:17:16 [SEVERE] Reached end of stream for /127.0.0.1
+2022-07-25 20:17:16 [SEVERE] Reached end of stream for /127.0.0.1
+2022-07-25 20:17:17 [SEVERE] Reached end of stream for /127.0.0.1
+2022-07-25 20:17:44 [INFO] shun[/172.29.144.1:50919] logged in with entity id 4161 at ([world] -190.5, 58.0, 246.5)
+2022-07-25 20:37:00 [INFO] Starting minecraft server version 1.6.2
+2022-07-25 20:37:00 [INFO] MinecraftForge v
+2022-07-25 20:37:00 [INFO] 9.10.0.804
+2022-07-25 20:37:00 [INFO]  Initialized
+
+2022-07-25 20:37:00 [INFO] Replaced 101 ore recipies
+2022-07-25 20:37:02 [INFO] Loading properties
+2022-07-25 20:37:02 [INFO] Default game type: SURVIVAL
+2022-07-25 20:37:02 [INFO] Generating keypair
+2022-07-25 20:37:02 [INFO] Starting Minecraft server on *:25565
+2022-07-25 20:37:02 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-36 (MC: 1.6.2) (Implementing API version 1.6.2-R0.1-SNAPSHOT)
+2022-07-25 20:37:03 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-07-25 20:37:03 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-07-25 20:37:03 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-07-25 20:37:03 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-07-25 20:37:03 [INFO] Preparing level "world"
+2022-07-25 20:37:03 [INFO] Registered command debug with permission node vanilla.command.debug
+2022-07-25 20:37:03 [INFO] Registered command spreadplayers with permission node vanilla.command.spreadplayers
+2022-07-25 20:37:03 [INFO] Registered command playsound with permission node vanilla.command.playsound
+2022-07-25 20:37:03 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2022-07-25 20:37:03 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 5958978434922792270)
+2022-07-25 20:37:04 [INFO] Preparing spawn area: 29%
+2022-07-25 20:37:05 [INFO] Preparing spawn area: 54%
+2022-07-25 20:37:06 [INFO] Preparing spawn area: 94%
+2022-07-25 20:37:06 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 4197503131016627863)
+2022-07-25 20:37:07 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 5958978434922792270)
+2022-07-25 20:37:07 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-07-25 20:37:07 [INFO] Done (4.006s)! For help, type "help" or "?"
+2022-07-25 20:37:29 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-25 20:37:29 [INFO] /192.168.101.26:48856 lost connection
+2022-07-25 20:37:59 [INFO] Connection reset
+2022-07-25 20:38:04 [INFO] ll[/192.168.101.26:48878] logged in with entity id 3231 at ([world] 127.5, 63.0, 251.5)
+2022-07-25 20:38:08 [SEVERE] Reached end of stream for /172.29.144.1
+2022-07-25 20:38:09 [INFO] shun[/172.29.144.1:56200] logged in with entity id 3357 at ([world] 132.5, 63.0, 245.5)
+2022-07-25 20:40:57 [INFO] <shun> hello[m
+2022-07-25 20:41:10 [INFO] <shun> giao[m
+2022-07-25 20:41:20 [INFO] <shun> bu neng da zhong wen[m
+2022-07-25 20:41:28 [INFO] <ll> build our house^[m
+2022-07-25 20:41:32 [INFO] <shun> go go go[m
+2022-07-25 20:46:13 [INFO] <shun> go[m
+2022-07-25 20:47:22 [INFO] <ll> here[m
+2022-07-25 20:47:33 [INFO] <shun> let us do it[m
+2022-07-25 20:52:33 [INFO] shun was blown up by Creeper
+2022-07-25 20:52:33 [INFO] ll was blown up by Creeper
+2022-07-25 20:53:43 [INFO] shun was blown up by Creeper
+2022-07-25 20:53:43 [INFO] ll was blown up by Creeper
+2022-07-25 20:54:15 [INFO] ll was slain by Zombie
+2022-07-25 20:54:43 [INFO] ll was shot by Skeleton
+2022-07-25 20:55:42 [INFO] ll was blown up by Creeper
+2022-07-25 20:56:08 [INFO] shun was slain by Zombie
+2022-07-25 20:56:33 [INFO] shun was slain by Zombie
+2022-07-25 20:56:44 [INFO] ll was blown up by Creeper
+2022-07-25 20:56:58 [INFO] shun was slain by Zombie
+2022-07-25 20:57:20 [INFO] shun was slain by Zombie
+2022-07-25 20:58:18 [INFO] ll was slain by Zombie
+2022-07-25 20:58:31 [INFO] shun was shot by Skeleton
+2022-07-25 21:00:36 [INFO] shun was shot by Skeleton
+2022-07-25 21:01:22 [INFO] shun was slain by Zombie
+2022-07-25 21:13:58 [INFO] <shun> here[m
+2022-07-25 21:17:10 [INFO] shun was shot by Skeleton
+2022-07-25 21:17:14 [INFO] ll was shot by Skeleton
+2022-07-25 21:19:53 [INFO] shun was blown up by Creeper
+2022-07-25 21:31:15 [INFO] shun was blown up by Creeper
+2022-07-25 21:31:15 [INFO] ll was blown up by Creeper
+2022-07-25 21:35:01 [INFO] ll drowned
+2022-07-25 22:18:30 [INFO] ll hit the ground too hard
+2022-07-25 22:38:49 [INFO] <shun> ![m
+2022-07-25 23:01:31 [INFO] Connection reset
+2022-07-25 23:01:31 [INFO] ll lost connection: disconnect.endOfStream
+2022-07-25 23:01:31 [INFO] ¡ìell left the game.
+2022-07-25 23:02:06 [INFO] shun lost connection: disconnect.quitting
+2022-07-25 23:02:06 [INFO] Connection reset
+2022-07-25 23:02:06 [INFO] ¡ìeshun left the game.
