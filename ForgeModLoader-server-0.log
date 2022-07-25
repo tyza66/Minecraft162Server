@@ -125,3 +125,16 @@
 2022-07-25 20:37:13 [信息] [ForgeModLoader] Unloading dimension 1
 2022-07-25 20:38:04 [非常详细] [ForgeModLoader] Received valid FML login packet from /192.168.101.26:48878
 2022-07-25 20:38:09 [非常详细] [ForgeModLoader] Received valid FML login packet from /172.29.144.1:56200
+2022-07-25 23:09:40 [非常详细] [mcp] Sending event FMLServerStoppingEvent to mod mcp
+2022-07-25 23:09:40 [非常详细] [mcp] Sent event FMLServerStoppingEvent to mod mcp
+2022-07-25 23:09:40 [非常详细] [FML] Sending event FMLServerStoppingEvent to mod FML
+2022-07-25 23:09:40 [非常详细] [FML] Sent event FMLServerStoppingEvent to mod FML
+2022-07-25 23:09:40 [非常详细] [Forge] Sending event FMLServerStoppingEvent to mod Forge
+2022-07-25 23:09:40 [非常详细] [Forge] Sent event FMLServerStoppingEvent to mod Forge
+2022-07-25 23:09:41 [信息] [ForgeModLoader] Unloading dimension 0
+2022-07-25 23:09:41 [非常详细] [mcp] Sending event FMLServerStoppedEvent to mod mcp
+2022-07-25 23:09:41 [非常详细] [mcp] Sent event FMLServerStoppedEvent to mod mcp
+2022-07-25 23:09:41 [非常详细] [FML] Sending event FMLServerStoppedEvent to mod FML
+2022-07-25 23:09:41 [非常详细] [FML] Sent event FMLServerStoppedEvent to mod FML
+2022-07-25 23:09:41 [非常详细] [Forge] Sending event FMLServerStoppedEvent to mod Forge
+2022-07-25 23:09:41 [非常详细] [Forge] Sent event FMLServerStoppedEvent to mod Forge
