@@ -523,3 +523,100 @@ java.lang.NullPointerException
 2022-07-26 20:40:18 [INFO] Saving chunks for level 'world'/Overworld
 2022-07-26 20:40:18 [INFO] Saving chunks for level 'DIM-1'/Nether
 2022-07-26 20:40:18 [INFO] Stopping server
+2022-07-27 12:37:34 [INFO] Starting minecraft server version 1.6.2
+2022-07-27 12:37:34 [INFO] MinecraftForge v
+2022-07-27 12:37:34 [INFO] 9.10.0.804
+2022-07-27 12:37:34 [INFO]  Initialized
+
+2022-07-27 12:37:34 [INFO] Replaced 101 ore recipies
+2022-07-27 12:37:35 [INFO] Loading properties
+2022-07-27 12:37:35 [INFO] Default game type: SURVIVAL
+2022-07-27 12:37:35 [INFO] Generating keypair
+2022-07-27 12:37:35 [INFO] Starting Minecraft server on *:25565
+2022-07-27 12:37:35 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-36 (MC: 1.6.2) (Implementing API version 1.6.2-R0.1-SNAPSHOT)
+2022-07-27 12:37:35 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-07-27 12:37:35 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-07-27 12:37:35 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-07-27 12:37:35 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-07-27 12:37:35 [INFO] Preparing level "world"
+2022-07-27 12:37:35 [INFO] Registered command debug with permission node vanilla.command.debug
+2022-07-27 12:37:35 [INFO] Registered command spreadplayers with permission node vanilla.command.spreadplayers
+2022-07-27 12:37:35 [INFO] Registered command playsound with permission node vanilla.command.playsound
+2022-07-27 12:37:35 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2022-07-27 12:37:36 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 5958978434922792270)
+2022-07-27 12:37:36 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 4197503131016627863)
+2022-07-27 12:37:36 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 5958978434922792270)
+2022-07-27 12:37:36 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-07-27 12:37:36 [INFO] Done (0.815s)! For help, type "help" or "?"
+2022-07-27 12:38:12 [SEVERE] Reached end of stream for /172.29.144.1
+2022-07-27 12:41:06 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-27 12:41:10 [INFO] ll[/192.168.101.26:54876] logged in with entity id 228 at ([world] 212.71341982198243, 70.0, 269.4256981701546)
+2022-07-27 12:41:27 [SEVERE] Reached end of stream for /172.29.144.1
+2022-07-27 12:41:29 [INFO] shun[/172.29.144.1:63703] logged in with entity id 311 at ([world] 219.97795402411435, 64.0, 259.85693967902967)
+2022-07-27 12:46:54 [INFO] ll was shot by Skeleton
+2022-07-27 12:47:05 [INFO] shun was shot by Skeleton
+2022-07-27 12:54:24 [INFO] shun lost connection: disconnect.quitting
+2022-07-27 12:54:24 [INFO] Connection reset
+2022-07-27 12:54:24 [INFO] ¡ìeshun left the game.
+2022-07-27 12:54:26 [SEVERE] Reached end of stream for /172.29.144.1
+2022-07-27 12:54:39 [SEVERE] Reached end of stream for /172.29.144.1
+2022-07-27 12:54:41 [INFO] shun[/172.29.144.1:50825] logged in with entity id 2702 at ([world] 217.8602225640808, 63.0, 256.86784426378995)
+2022-07-27 13:02:10 [INFO] <shun> w[m
+2022-07-27 13:05:38 [INFO] ll was shot by Skeleton
+2022-07-27 13:05:40 [INFO] shun was blown up by Creeper
+2022-07-27 13:22:23 [INFO] shun was blown up by Creeper
+2022-07-27 13:22:30 [INFO] shun issued server command: /tp ll
+2022-07-27 13:22:30 [INFO] shun: Teleported shun to ll[m
+2022-07-27 13:23:23 [INFO] shun issued server command: /tp ll
+2022-07-27 13:23:23 [INFO] shun: Teleported shun to ll[m
+2022-07-27 13:24:56 [INFO] ll lost connection: disconnect.quitting
+2022-07-27 13:24:56 [INFO] Connection reset
+2022-07-27 13:24:56 [INFO] ¡ìell left the game.
+2022-07-27 13:25:15 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-27 13:25:19 [INFO] ll[/192.168.101.26:54882] logged in with entity id 8320 at ([world] -30.48178640342465, 73.0, 300.24967240736567)
+2022-07-27 13:27:02 [INFO] shun was slain by Zombie
+2022-07-27 13:27:12 [INFO] shun issued server command: /tp ll
+2022-07-27 13:27:12 [INFO] shun: Teleported shun to ll[m
+2022-07-27 13:31:54 [INFO] shun issued server command: /tp ll
+2022-07-27 13:31:54 [INFO] shun: Teleported shun to ll[m
+2022-07-27 13:48:53 [INFO] ll was slain by Zombie
+2022-07-27 13:51:07 [INFO] ll was blown up by Creeper
+2022-07-27 13:51:35 [INFO] shun starved to death
+2022-07-27 14:16:21 [INFO] ll was blown up by Creeper
+2022-07-27 14:19:16 [INFO] shun issued server command: /locate village
+2022-07-27 14:19:29 [INFO] shun issued server command: /locate
+2022-07-27 14:26:23 [INFO] shun issued server command: /tp 500 300 600
+2022-07-27 14:26:23 [INFO] shun: Teleported shun to 500.50, 300.50, 600.50[m
+2022-07-27 14:26:29 [INFO] shun fell from a high place
+2022-07-27 14:26:40 [INFO] shun issued server command: /tp 500 100 600
+2022-07-27 14:26:40 [INFO] shun: Teleported shun to 500.50, 100.50, 600.50[m
+2022-07-27 14:26:42 [INFO] shun fell from a high place
+2022-07-27 14:26:54 [INFO] shun issued server command: /tp 500 10 600
+2022-07-27 14:26:54 [INFO] shun: Teleported shun to 500.50, 10.50, 600.50[m
+2022-07-27 14:27:02 [INFO] shun issued server command: /tp 500 50 600
+2022-07-27 14:27:02 [INFO] shun: Teleported shun to 500.50, 50.50, 600.50[m
+2022-07-27 14:27:05 [INFO] shun suffocated in a wall
+2022-07-27 14:27:11 [INFO] shun issued server command: /tp 500 80 600
+2022-07-27 14:27:11 [INFO] shun: Teleported shun to 500.50, 80.50, 600.50[m
+2022-07-27 14:27:36 [INFO] shun issued server command: /tp ll
+2022-07-27 14:27:36 [INFO] shun: Teleported shun to ll[m
+2022-07-27 14:32:46 [INFO] ll hit the ground too hard
+2022-07-27 14:34:30 [INFO] shun drowned
+2022-07-27 14:51:47 [INFO] ll was slain by Wolf
+2022-07-27 14:51:57 [INFO] ll issued server command: /tp shun
+2022-07-27 14:51:57 [INFO] ll: Teleported ll to shun[m
+2022-07-27 15:14:08 [INFO] Connection reset
+2022-07-27 15:14:08 [INFO] ll lost connection: disconnect.quitting
+2022-07-27 15:14:08 [INFO] ¡ìell left the game.
+2022-07-27 15:14:39 [INFO] shun lost connection: disconnect.quitting
+2022-07-27 15:14:39 [INFO] Connection reset
+2022-07-27 15:14:39 [INFO] ¡ìeshun left the game.
+2022-07-27 15:14:45 [INFO] CONSOLE: Stopping the server..[m
+2022-07-27 15:14:45 [INFO] Stopping server
+2022-07-27 15:14:45 [INFO] Saving players
+2022-07-27 15:14:45 [WARNING] DSCT: socket closed
+2022-07-27 15:14:45 [INFO] Saving worlds
+2022-07-27 15:14:45 [INFO] Closing listening thread
+2022-07-27 15:14:45 [INFO] Saving chunks for level 'world'/Overworld
+2022-07-27 15:14:46 [INFO] Saving chunks for level 'DIM-1'/Nether
+2022-07-27 15:14:46 [INFO] Stopping server
