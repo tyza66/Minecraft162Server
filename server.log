@@ -620,3 +620,814 @@ java.lang.NullPointerException
 2022-07-27 15:14:45 [INFO] Saving chunks for level 'world'/Overworld
 2022-07-27 15:14:46 [INFO] Saving chunks for level 'DIM-1'/Nether
 2022-07-27 15:14:46 [INFO] Stopping server
+2022-07-27 17:46:53 [INFO] Starting minecraft server version 1.6.2
+2022-07-27 17:46:53 [INFO] MinecraftForge v
+2022-07-27 17:46:53 [INFO] 9.10.0.804
+2022-07-27 17:46:53 [INFO]  Initialized
+
+2022-07-27 17:46:53 [INFO] Replaced 101 ore recipies
+2022-07-27 17:46:54 [INFO] Loading properties
+2022-07-27 17:46:54 [INFO] Default game type: SURVIVAL
+2022-07-27 17:46:54 [INFO] Generating keypair
+2022-07-27 17:46:54 [INFO] Starting Minecraft server on *:25565
+2022-07-27 17:46:54 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-36 (MC: 1.6.2) (Implementing API version 1.6.2-R0.1-SNAPSHOT)
+2022-07-27 17:46:55 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-07-27 17:46:55 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-07-27 17:46:55 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-07-27 17:46:55 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-07-27 17:46:55 [INFO] Preparing level "world"
+2022-07-27 17:46:55 [INFO] Registered command debug with permission node vanilla.command.debug
+2022-07-27 17:46:55 [INFO] Registered command spreadplayers with permission node vanilla.command.spreadplayers
+2022-07-27 17:46:55 [INFO] Registered command playsound with permission node vanilla.command.playsound
+2022-07-27 17:46:55 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2022-07-27 17:46:55 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 5958978434922792270)
+2022-07-27 17:46:55 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 4197503131016627863)
+2022-07-27 17:46:55 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 5958978434922792270)
+2022-07-27 17:46:55 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-07-27 17:46:55 [INFO] Done (0.805s)! For help, type "help" or "?"
+2022-07-27 17:48:48 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-27 17:48:48 [INFO] /192.168.101.26:54938 lost connection
+2022-07-27 17:50:01 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-27 17:50:01 [INFO] /192.168.101.26:54942 lost connection
+2022-07-27 17:53:11 [SEVERE] Reached end of stream for /172.29.144.1
+2022-07-27 17:53:13 [INFO] shun[/172.29.144.1:54606] logged in with entity id 190 at ([world] -27.572655517202012, 63.0, 607.4319506837281)
+2022-07-27 17:54:24 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-27 17:54:29 [INFO] ll[/192.168.101.26:54950] logged in with entity id 437 at ([world] -14.590226724173432, 64.0, 606.1401494457842)
+2022-07-27 17:55:32 [INFO] ll issued server command: /locate Village
+2022-07-27 17:55:42 [INFO] <ll> help[m
+2022-07-27 17:56:04 [INFO] <shun> za le[m
+2022-07-27 17:56:26 [INFO] <ll> wo shishi nei ge chuan song[m
+2022-07-27 17:56:37 [INFO] <ll> bu hao shi[m
+2022-07-27 17:56:44 [INFO] <shun> a[m
+2022-07-27 17:56:59 [INFO] <shun> na dou shi fu wu qi cha jian ba[m
+2022-07-27 17:57:19 [INFO] ll issued server command: /tp 232 64 23
+2022-07-27 17:57:19 [INFO] ll: Teleported ll to 232.50, 64.50, 23.50[m
+2022-07-27 17:57:28 [INFO] ll suffocated in a wall
+2022-07-27 17:57:49 [INFO] ll lost connection: disconnect.quitting
+2022-07-27 17:57:49 [INFO] Connection reset
+2022-07-27 17:57:49 [INFO] ¡ìell left the game.
+2022-07-27 17:57:52 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-27 17:57:57 [INFO] ll[/192.168.101.26:54954] logged in with entity id 2084 at ([world] 125.5, 63.0, 254.5)
+2022-07-27 17:58:30 [INFO] ll issued server command: /tp 231 46 81
+2022-07-27 17:58:30 [INFO] ll: Teleported ll to 231.50, 46.50, 81.50[m
+2022-07-27 17:58:40 [INFO] ll issued server command: /tp 231 46 99
+2022-07-27 17:58:40 [INFO] ll: Teleported ll to 231.50, 46.50, 99.50[m
+2022-07-27 17:58:42 [INFO] ll suffocated in a wall
+2022-07-27 17:59:17 [INFO] ll issued server command: /tp 232 99 81
+2022-07-27 17:59:17 [INFO] ll: Teleported ll to 232.50, 99.50, 81.50[m
+2022-07-27 18:00:23 [INFO] ll issued server command: /tp 433 99 81
+2022-07-27 18:00:23 [INFO] ll: Teleported ll to 433.50, 99.50, 81.50[m
+2022-07-27 18:00:26 [INFO] ll fell from a high place
+2022-07-27 18:00:37 [INFO] Connection reset
+2022-07-27 18:00:37 [INFO] ll lost connection: disconnect.quitting
+2022-07-27 18:00:37 [INFO] ¡ìell left the game.
+2022-07-27 18:00:39 [INFO] Connection reset
+2022-07-27 18:00:39 [INFO] shun lost connection: disconnect.quitting
+2022-07-27 18:00:39 [INFO] ¡ìeshun left the game.
+2022-07-27 18:00:40 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-27 18:00:42 [INFO] ll[/192.168.101.26:54960] logged in with entity id 3949 at ([world] 125.5, 63.0, 254.5)
+2022-07-27 18:00:57 [INFO] ll issued server command: /tp 433 88 81
+2022-07-27 18:00:57 [INFO] ll: Teleported ll to 433.50, 88.50, 81.50[m
+2022-07-27 18:02:02 [INFO] ll lost connection: disconnect.quitting
+2022-07-27 18:02:02 [INFO] Connection reset
+2022-07-27 18:02:02 [INFO] ¡ìell left the game.
+2022-07-27 18:02:03 [INFO] CONSOLE: Stopping the server..[m
+2022-07-27 18:02:03 [INFO] Stopping server
+2022-07-27 18:02:03 [INFO] Saving players
+2022-07-27 18:02:03 [WARNING] DSCT: socket closed
+2022-07-27 18:02:03 [INFO] Saving worlds
+2022-07-27 18:02:03 [INFO] Closing listening thread
+2022-07-27 18:02:03 [INFO] Saving chunks for level 'world'/Overworld
+2022-07-27 18:02:04 [INFO] Saving chunks for level 'DIM-1'/Nether
+2022-07-27 18:02:04 [INFO] Stopping server
+2022-07-27 18:02:20 [INFO] Starting minecraft server version 1.6.2
+2022-07-27 18:02:20 [INFO] MinecraftForge v
+2022-07-27 18:02:20 [INFO] 9.10.0.804
+2022-07-27 18:02:20 [INFO]  Initialized
+
+2022-07-27 18:02:20 [INFO] Replaced 101 ore recipies
+2022-07-27 18:02:21 [SEVERE] java.lang.NoClassDefFoundError: reifnsk/minimap/ReiMinimap
+2022-07-27 18:02:21 [SEVERE] 	at mod_ReiMinimap.getVersion(mod_ReiMinimap.java:15)
+2022-07-27 18:02:21 [SEVERE] 	at cpw.mods.fml.common.modloader.ModLoaderModContainer.getVersion(ModLoaderModContainer.java:417)
+2022-07-27 18:02:21 [SEVERE] 	at cpw.mods.fml.common.Loader.loadMods(Loader.java:514)
+2022-07-27 18:02:21 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:86)
+2022-07-27 18:02:21 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+2022-07-27 18:02:21 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+2022-07-27 18:02:21 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:596)
+2022-07-27 18:02:21 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2022-07-27 18:02:21 [SEVERE] Caused by: java.lang.ClassNotFoundException: reifnsk.minimap.ReiMinimap
+2022-07-27 18:02:21 [SEVERE] 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:179)
+2022-07-27 18:02:21 [SEVERE] 	at java.lang.ClassLoader.loadClass(Unknown Source)
+2022-07-27 18:02:21 [SEVERE] 	at java.lang.ClassLoader.loadClass(Unknown Source)
+2022-07-27 18:02:21 [SEVERE] 	... 8 more
+2022-07-27 18:02:21 [SEVERE] Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/ResourceManagerReloadListener
+2022-07-27 18:02:21 [SEVERE] 	at java.lang.ClassLoader.defineClass1(Native Method)
+2022-07-27 18:02:21 [SEVERE] 	at java.lang.ClassLoader.defineClass(Unknown Source)
+2022-07-27 18:02:21 [SEVERE] 	at java.security.SecureClassLoader.defineClass(Unknown Source)
+2022-07-27 18:02:21 [SEVERE] 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:171)
+2022-07-27 18:02:21 [SEVERE] 	... 10 more
+2022-07-27 18:02:21 [SEVERE] Caused by: java.lang.ClassNotFoundException: net.minecraft.client.resources.ResourceManagerReloadListener
+2022-07-27 18:02:21 [SEVERE] 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:179)
+2022-07-27 18:02:21 [SEVERE] 	at java.lang.ClassLoader.loadClass(Unknown Source)
+2022-07-27 18:02:21 [SEVERE] 	at java.lang.ClassLoader.loadClass(Unknown Source)
+2022-07-27 18:02:21 [SEVERE] 	... 14 more
+2022-07-27 18:02:21 [SEVERE] Caused by: java.lang.RuntimeException: Attempted to load class bjn for invalid side SERVER
+2022-07-27 18:02:21 [SEVERE] 	at cpw.mods.fml.common.asm.transformers.SideTransformer.transform(SideTransformer.java:50)
+2022-07-27 18:02:21 [SEVERE] 	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:267)
+2022-07-27 18:02:21 [SEVERE] 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:165)
+2022-07-27 18:02:21 [SEVERE] 	... 16 more
+2022-07-27 18:02:21 [SEVERE] Encountered an unexpected exception NoClassDefFoundError
+java.lang.NoClassDefFoundError: reifnsk/minimap/ReiMinimap
+	at mod_ReiMinimap.getVersion(mod_ReiMinimap.java:15)
+	at cpw.mods.fml.common.modloader.ModLoaderModContainer.getVersion(ModLoaderModContainer.java:417)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:514)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:86)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:596)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+Caused by: java.lang.ClassNotFoundException: reifnsk.minimap.ReiMinimap
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:179)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 8 more
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/ResourceManagerReloadListener
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.security.SecureClassLoader.defineClass(Unknown Source)
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:171)
+	... 10 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.resources.ResourceManagerReloadListener
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:179)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 14 more
+Caused by: java.lang.RuntimeException: Attempted to load class bjn for invalid side SERVER
+	at cpw.mods.fml.common.asm.transformers.SideTransformer.transform(SideTransformer.java:50)
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:267)
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:165)
+	... 16 more
+2022-07-27 18:02:21 [SEVERE] This crash report has been saved to: C:\Users\shun_\Desktop\Project\Public\Minecraft162Server\.\crash-reports\crash-2022-07-27_18.02.21-server.txt
+2022-07-27 18:03:38 [INFO] Starting minecraft server version 1.6.2
+2022-07-27 18:03:38 [INFO] MinecraftForge v
+2022-07-27 18:03:38 [INFO] 9.10.0.804
+2022-07-27 18:03:38 [INFO]  Initialized
+
+2022-07-27 18:03:38 [INFO] Replaced 101 ore recipies
+2022-07-27 18:03:39 [SEVERE] java.lang.NoClassDefFoundError: reifnsk/minimap/ReiMinimap
+2022-07-27 18:03:39 [SEVERE] 	at mod_ReiMinimap.getVersion(mod_ReiMinimap.java:15)
+2022-07-27 18:03:39 [SEVERE] 	at cpw.mods.fml.common.modloader.ModLoaderModContainer.getVersion(ModLoaderModContainer.java:417)
+2022-07-27 18:03:39 [SEVERE] 	at cpw.mods.fml.common.Loader.loadMods(Loader.java:514)
+2022-07-27 18:03:39 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:86)
+2022-07-27 18:03:39 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+2022-07-27 18:03:39 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+2022-07-27 18:03:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:596)
+2022-07-27 18:03:39 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2022-07-27 18:03:39 [SEVERE] Caused by: java.lang.ClassNotFoundException: reifnsk.minimap.ReiMinimap
+2022-07-27 18:03:39 [SEVERE] 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:179)
+2022-07-27 18:03:39 [SEVERE] 	at java.lang.ClassLoader.loadClass(Unknown Source)
+2022-07-27 18:03:39 [SEVERE] 	at java.lang.ClassLoader.loadClass(Unknown Source)
+2022-07-27 18:03:39 [SEVERE] 	... 8 more
+2022-07-27 18:03:39 [SEVERE] Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/ResourceManagerReloadListener
+2022-07-27 18:03:39 [SEVERE] 	at java.lang.ClassLoader.defineClass1(Native Method)
+2022-07-27 18:03:39 [SEVERE] 	at java.lang.ClassLoader.defineClass(Unknown Source)
+2022-07-27 18:03:39 [SEVERE] 	at java.security.SecureClassLoader.defineClass(Unknown Source)
+2022-07-27 18:03:39 [SEVERE] 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:171)
+2022-07-27 18:03:39 [SEVERE] 	... 10 more
+2022-07-27 18:03:39 [SEVERE] Caused by: java.lang.ClassNotFoundException: net.minecraft.client.resources.ResourceManagerReloadListener
+2022-07-27 18:03:39 [SEVERE] 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:179)
+2022-07-27 18:03:39 [SEVERE] 	at java.lang.ClassLoader.loadClass(Unknown Source)
+2022-07-27 18:03:39 [SEVERE] 	at java.lang.ClassLoader.loadClass(Unknown Source)
+2022-07-27 18:03:39 [SEVERE] 	... 14 more
+2022-07-27 18:03:39 [SEVERE] Caused by: java.lang.RuntimeException: Attempted to load class bjn for invalid side SERVER
+2022-07-27 18:03:39 [SEVERE] 	at cpw.mods.fml.common.asm.transformers.SideTransformer.transform(SideTransformer.java:50)
+2022-07-27 18:03:39 [SEVERE] 	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:267)
+2022-07-27 18:03:39 [SEVERE] 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:165)
+2022-07-27 18:03:39 [SEVERE] 	... 16 more
+2022-07-27 18:03:39 [SEVERE] Encountered an unexpected exception NoClassDefFoundError
+java.lang.NoClassDefFoundError: reifnsk/minimap/ReiMinimap
+	at mod_ReiMinimap.getVersion(mod_ReiMinimap.java:15)
+	at cpw.mods.fml.common.modloader.ModLoaderModContainer.getVersion(ModLoaderModContainer.java:417)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:514)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:86)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:596)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+Caused by: java.lang.ClassNotFoundException: reifnsk.minimap.ReiMinimap
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:179)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 8 more
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/ResourceManagerReloadListener
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.security.SecureClassLoader.defineClass(Unknown Source)
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:171)
+	... 10 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.resources.ResourceManagerReloadListener
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:179)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 14 more
+Caused by: java.lang.RuntimeException: Attempted to load class bjn for invalid side SERVER
+	at cpw.mods.fml.common.asm.transformers.SideTransformer.transform(SideTransformer.java:50)
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:267)
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:165)
+	... 16 more
+2022-07-27 18:03:39 [SEVERE] This crash report has been saved to: C:\Users\shun_\Desktop\Project\Public\Minecraft162Server\.\crash-reports\crash-2022-07-27_18.03.39-server.txt
+2022-07-27 18:03:56 [INFO] Starting minecraft server version 1.6.2
+2022-07-27 18:03:56 [INFO] MinecraftForge v
+2022-07-27 18:03:56 [INFO] 9.10.0.804
+2022-07-27 18:03:56 [INFO]  Initialized
+
+2022-07-27 18:03:56 [INFO] Replaced 101 ore recipies
+2022-07-27 18:03:57 [SEVERE] java.lang.NoClassDefFoundError: reifnsk/minimap/ReiMinimap
+2022-07-27 18:03:57 [SEVERE] 	at mod_ReiMinimap.getVersion(mod_ReiMinimap.java:15)
+2022-07-27 18:03:57 [SEVERE] 	at cpw.mods.fml.common.modloader.ModLoaderModContainer.getVersion(ModLoaderModContainer.java:417)
+2022-07-27 18:03:57 [SEVERE] 	at cpw.mods.fml.common.Loader.loadMods(Loader.java:514)
+2022-07-27 18:03:57 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:86)
+2022-07-27 18:03:57 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+2022-07-27 18:03:57 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+2022-07-27 18:03:57 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:596)
+2022-07-27 18:03:57 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2022-07-27 18:03:57 [SEVERE] Caused by: java.lang.ClassNotFoundException: reifnsk.minimap.ReiMinimap
+2022-07-27 18:03:57 [SEVERE] 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:179)
+2022-07-27 18:03:57 [SEVERE] 	at java.lang.ClassLoader.loadClass(Unknown Source)
+2022-07-27 18:03:57 [SEVERE] 	at java.lang.ClassLoader.loadClass(Unknown Source)
+2022-07-27 18:03:57 [SEVERE] 	... 8 more
+2022-07-27 18:03:57 [SEVERE] Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/ResourceManagerReloadListener
+2022-07-27 18:03:57 [SEVERE] 	at java.lang.ClassLoader.defineClass1(Native Method)
+2022-07-27 18:03:57 [SEVERE] 	at java.lang.ClassLoader.defineClass(Unknown Source)
+2022-07-27 18:03:57 [SEVERE] 	at java.security.SecureClassLoader.defineClass(Unknown Source)
+2022-07-27 18:03:57 [SEVERE] 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:171)
+2022-07-27 18:03:57 [SEVERE] 	... 10 more
+2022-07-27 18:03:57 [SEVERE] Caused by: java.lang.ClassNotFoundException: net.minecraft.client.resources.ResourceManagerReloadListener
+2022-07-27 18:03:57 [SEVERE] 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:179)
+2022-07-27 18:03:57 [SEVERE] 	at java.lang.ClassLoader.loadClass(Unknown Source)
+2022-07-27 18:03:57 [SEVERE] 	at java.lang.ClassLoader.loadClass(Unknown Source)
+2022-07-27 18:03:57 [SEVERE] 	... 14 more
+2022-07-27 18:03:57 [SEVERE] Caused by: java.lang.RuntimeException: Attempted to load class bjn for invalid side SERVER
+2022-07-27 18:03:57 [SEVERE] 	at cpw.mods.fml.common.asm.transformers.SideTransformer.transform(SideTransformer.java:50)
+2022-07-27 18:03:57 [SEVERE] 	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:267)
+2022-07-27 18:03:57 [SEVERE] 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:165)
+2022-07-27 18:03:57 [SEVERE] 	... 16 more
+2022-07-27 18:03:57 [SEVERE] Encountered an unexpected exception NoClassDefFoundError
+java.lang.NoClassDefFoundError: reifnsk/minimap/ReiMinimap
+	at mod_ReiMinimap.getVersion(mod_ReiMinimap.java:15)
+	at cpw.mods.fml.common.modloader.ModLoaderModContainer.getVersion(ModLoaderModContainer.java:417)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:514)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:86)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:596)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+Caused by: java.lang.ClassNotFoundException: reifnsk.minimap.ReiMinimap
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:179)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 8 more
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/ResourceManagerReloadListener
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.security.SecureClassLoader.defineClass(Unknown Source)
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:171)
+	... 10 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.resources.ResourceManagerReloadListener
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:179)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 14 more
+Caused by: java.lang.RuntimeException: Attempted to load class bjn for invalid side SERVER
+	at cpw.mods.fml.common.asm.transformers.SideTransformer.transform(SideTransformer.java:50)
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:267)
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:165)
+	... 16 more
+2022-07-27 18:03:57 [SEVERE] This crash report has been saved to: C:\Users\shun_\Desktop\Project\Public\Minecraft162Server\.\crash-reports\crash-2022-07-27_18.03.57-server.txt
+2022-07-27 18:04:35 [INFO] Starting minecraft server version 1.6.2
+2022-07-27 18:04:35 [INFO] MinecraftForge v
+2022-07-27 18:04:35 [INFO] 9.10.0.804
+2022-07-27 18:04:35 [INFO]  Initialized
+
+2022-07-27 18:04:35 [INFO] Replaced 101 ore recipies
+2022-07-27 18:04:37 [SEVERE] java.lang.NoClassDefFoundError: net/minecraft/client/Minecraft
+2022-07-27 18:04:37 [SEVERE] 	at DamageIndicatorsMod.core.Tools.<init>(Tools.java:40)
+2022-07-27 18:04:37 [SEVERE] 	at DamageIndicatorsMod.DIMod.<clinit>(DIMod.java:23)
+2022-07-27 18:04:37 [SEVERE] 	at java.lang.Class.forName0(Native Method)
+2022-07-27 18:04:37 [SEVERE] 	at java.lang.Class.forName(Unknown Source)
+2022-07-27 18:04:37 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:457)
+2022-07-27 18:04:37 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2022-07-27 18:04:37 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2022-07-27 18:04:37 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2022-07-27 18:04:37 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2022-07-27 18:04:37 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2022-07-27 18:04:37 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2022-07-27 18:04:37 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2022-07-27 18:04:37 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2022-07-27 18:04:37 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2022-07-27 18:04:37 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:194)
+2022-07-27 18:04:37 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:174)
+2022-07-27 18:04:37 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2022-07-27 18:04:37 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2022-07-27 18:04:37 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2022-07-27 18:04:37 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2022-07-27 18:04:37 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2022-07-27 18:04:37 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2022-07-27 18:04:37 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+2022-07-27 18:04:37 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2022-07-27 18:04:37 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2022-07-27 18:04:37 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:105)
+2022-07-27 18:04:37 [SEVERE] 	at cpw.mods.fml.common.Loader.loadMods(Loader.java:510)
+2022-07-27 18:04:37 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:86)
+2022-07-27 18:04:37 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+2022-07-27 18:04:37 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+2022-07-27 18:04:37 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:596)
+2022-07-27 18:04:37 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2022-07-27 18:04:37 [SEVERE] Caused by: java.lang.ClassNotFoundException: net.minecraft.client.Minecraft
+2022-07-27 18:04:37 [SEVERE] 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:179)
+2022-07-27 18:04:37 [SEVERE] 	at java.lang.ClassLoader.loadClass(Unknown Source)
+2022-07-27 18:04:37 [SEVERE] 	at java.lang.ClassLoader.loadClass(Unknown Source)
+2022-07-27 18:04:37 [SEVERE] 	... 32 more
+2022-07-27 18:04:37 [SEVERE] Caused by: java.lang.RuntimeException: Attempted to load class ats for invalid side SERVER
+2022-07-27 18:04:37 [SEVERE] 	at cpw.mods.fml.common.asm.transformers.SideTransformer.transform(SideTransformer.java:50)
+2022-07-27 18:04:37 [SEVERE] 	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:267)
+2022-07-27 18:04:37 [SEVERE] 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:165)
+2022-07-27 18:04:37 [SEVERE] 	... 34 more
+2022-07-27 18:04:37 [SEVERE] Encountered an unexpected exception NoClassDefFoundError
+java.lang.NoClassDefFoundError: net/minecraft/client/Minecraft
+	at DamageIndicatorsMod.core.Tools.<init>(Tools.java:40)
+	at DamageIndicatorsMod.DIMod.<clinit>(DIMod.java:23)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:457)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:194)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:174)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:105)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:510)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:86)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:596)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.Minecraft
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:179)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 32 more
+Caused by: java.lang.RuntimeException: Attempted to load class ats for invalid side SERVER
+	at cpw.mods.fml.common.asm.transformers.SideTransformer.transform(SideTransformer.java:50)
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:267)
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:165)
+	... 34 more
+2022-07-27 18:04:37 [SEVERE] This crash report has been saved to: C:\Users\shun_\Desktop\Project\Public\Minecraft162Server\.\crash-reports\crash-2022-07-27_18.04.37-server.txt
+2022-07-27 18:06:30 [INFO] Starting minecraft server version 1.6.2
+2022-07-27 18:06:30 [INFO] MinecraftForge v
+2022-07-27 18:06:30 [INFO] 9.10.0.804
+2022-07-27 18:06:30 [INFO]  Initialized
+
+2022-07-27 18:06:30 [INFO] Replaced 101 ore recipies
+2022-07-27 18:06:31 [INFO] Loading properties
+2022-07-27 18:06:31 [INFO] Default game type: SURVIVAL
+2022-07-27 18:06:31 [INFO] Generating keypair
+2022-07-27 18:06:31 [INFO] Starting Minecraft server on *:25565
+2022-07-27 18:06:31 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-36 (MC: 1.6.2) (Implementing API version 1.6.2-R0.1-SNAPSHOT)
+2022-07-27 18:06:31 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-07-27 18:06:31 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-07-27 18:06:31 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-07-27 18:06:31 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-07-27 18:06:31 [INFO] Preparing level "world"
+2022-07-27 18:06:31 [INFO] Registered command debug with permission node vanilla.command.debug
+2022-07-27 18:06:31 [INFO] Registered command spreadplayers with permission node vanilla.command.spreadplayers
+2022-07-27 18:06:31 [INFO] Registered command playsound with permission node vanilla.command.playsound
+2022-07-27 18:06:31 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2022-07-27 18:06:32 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 5958978434922792270)
+2022-07-27 18:06:32 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 4197503131016627863)
+2022-07-27 18:06:32 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 5958978434922792270)
+2022-07-27 18:06:33 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-07-27 18:06:33 [INFO] Done (1.524s)! For help, type "help" or "?"
+2022-07-27 18:06:39 [SEVERE] Reached end of stream for /172.29.144.1
+2022-07-27 18:06:41 [INFO] shun[/172.29.144.1:57626] logged in with entity id 191 at ([world] -21.36949065714771, 63.0, 607.5351943273185)
+2022-07-27 18:06:53 [INFO] shun lost connection: disconnect.quitting
+2022-07-27 18:06:53 [INFO] Connection reset
+2022-07-27 18:06:53 [INFO] ¡ìeshun left the game.
+2022-07-27 18:07:43 [SEVERE] Reached end of stream for /172.29.144.1
+2022-07-27 18:07:44 [INFO] shun[/172.29.144.1:57870] logged in with entity id 342 at ([world] -21.36949065714771, 63.0, 607.5351943273185)
+2022-07-27 18:07:50 [INFO] <shun> cfvf[m
+2022-07-27 18:07:54 [INFO] <shun> ÄãºÃ[m
+2022-07-27 18:08:47 [INFO] Connection reset
+2022-07-27 18:08:47 [INFO] shun lost connection: disconnect.endOfStream
+2022-07-27 18:08:47 [INFO] ¡ìeshun left the game.
+2022-07-27 18:15:24 [INFO] Starting minecraft server version 1.6.2
+2022-07-27 18:15:24 [INFO] MinecraftForge v
+2022-07-27 18:15:24 [INFO] 9.10.0.804
+2022-07-27 18:15:24 [INFO]  Initialized
+
+2022-07-27 18:15:24 [INFO] Replaced 101 ore recipies
+2022-07-27 18:15:26 [INFO] Loading properties
+2022-07-27 18:15:26 [INFO] Default game type: SURVIVAL
+2022-07-27 18:15:26 [INFO] Generating keypair
+2022-07-27 18:15:27 [INFO] Starting Minecraft server on *:25565
+2022-07-27 18:15:27 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-36 (MC: 1.6.2) (Implementing API version 1.6.2-R0.1-SNAPSHOT)
+2022-07-27 18:15:28 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-07-27 18:15:28 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-07-27 18:15:28 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-07-27 18:15:28 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-07-27 18:15:28 [INFO] Preparing level "world"
+2022-07-27 18:15:28 [INFO] Registered command debug with permission node vanilla.command.debug
+2022-07-27 18:15:28 [INFO] Registered command spreadplayers with permission node vanilla.command.spreadplayers
+2022-07-27 18:15:28 [INFO] Registered command playsound with permission node vanilla.command.playsound
+2022-07-27 18:15:28 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2022-07-27 18:15:28 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 5958978434922792270)
+2022-07-27 18:15:28 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 4197503131016627863)
+2022-07-27 18:15:28 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 5958978434922792270)
+2022-07-27 18:15:29 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-07-27 18:15:29 [INFO] Done (1.527s)! For help, type "help" or "?"
+2022-07-27 18:18:01 [SEVERE] Reached end of stream for /172.29.144.1
+2022-07-27 18:18:03 [INFO] shun[/172.29.144.1:60829] logged in with entity id 190 at ([world] -21.36949065714771, 63.0, 607.5351943273185)
+2022-07-27 18:18:25 [INFO] Connection reset
+2022-07-27 18:18:25 [INFO] shun lost connection: disconnect.endOfStream
+2022-07-27 18:18:25 [INFO] ¡ìeshun left the game.
+2022-07-27 18:24:33 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-27 18:24:37 [INFO] ll[/192.168.101.26:54968] logged in with entity id 339 at ([world] 412.92771618278545, 69.0, 123.37449882058866)
+2022-07-27 18:24:48 [INFO] <ll> ¿ÉÒÔÊ¹ÓÃÖÐÎÄÁË£¡[m
+2022-07-27 18:26:03 [SEVERE] Reached end of stream for /172.29.144.1
+2022-07-27 18:26:05 [INFO] shun[/172.29.144.1:63028] logged in with entity id 986 at ([world] -25.093359945902723, 63.0, 600.6061844939669)
+2022-07-27 18:26:10 [INFO] <shun> giao[m
+2022-07-27 18:26:17 [INFO] <shun> ÄÜ´ò×ÖÁË[m
+2022-07-27 18:26:23 [INFO] <ll> ¿ìlai[m
+2022-07-27 18:26:32 [INFO] <ll> ÄÏ¹Ï[m
+2022-07-27 18:26:34 [INFO] <shun> ÄÏ¹Ï[m
+2022-07-27 18:26:45 [INFO] <shun> Ó¦¸ÃÊÇÈ¥¿ó¶´ÀïÃæÄÜÕÒµ½[m
+2022-07-27 18:26:53 [INFO] <ll> »¹ÓÐÃ¨[m
+2022-07-27 18:27:01 [INFO] <shun> ÔÚÄÄ[m
+2022-07-27 18:27:05 [INFO] <ll> À´À´[m
+2022-07-27 18:27:16 [INFO] <ll> ¼ÇÒ»ÏÂÄã×ø±ê[m
+2022-07-27 18:27:25 [INFO] <ll> tp¹ýÀ´[m
+2022-07-27 18:27:43 [INFO] <shun> Õâ¸öÐ¡µØÍ¼²å¼þ¿ÉÒÔ´òµØ±ê[m
+2022-07-27 18:27:52 [INFO] <shun> Ö®ºóºÃÏñ¿ÉÒÔ´«ÊÚ[m
+2022-07-27 18:28:12 [INFO] <ll> ¿ì¹ýÀ´[m
+2022-07-27 18:28:31 [INFO] <ll> ÔõÃ´ÅªÄÏ¹ÏÖÖ×Ó£¿[m
+2022-07-27 18:28:49 [INFO] shun issued server command: /tp ll
+2022-07-27 18:28:49 [INFO] shun: Teleported shun to ll[m
+2022-07-27 18:34:43 [INFO] <shun> ²»¶Ô°¡[m
+2022-07-27 18:34:50 [INFO] <shun> Õâ¿é¶¼ÄÜ´ò×ÖÁË[m
+2022-07-27 18:35:02 [INFO] <shun> hhhhhhhhhhhhhhhhhhhhh[m
+2022-07-27 18:35:33 [INFO] <ll> ÏÈ»ØÀÏ¼Ò°É[m
+2022-07-27 18:35:35 [INFO] <shun> ÄÄÓÐÆ½Ô­°¡[m
+2022-07-27 18:35:40 [INFO] <shun> Õ¦»á[m
+2022-07-27 18:35:44 [INFO] <ll> ×ø±êµã[m
+2022-07-27 18:35:53 [INFO] <shun> ¶àÉÙ[m
+2022-07-27 18:36:02 [INFO] shun issued server command: /tp ll
+2022-07-27 18:36:02 [INFO] shun: Teleported shun to ll[m
+2022-07-27 18:36:12 [INFO] <ll> ÄãÃ»¼Ç£¿[m
+2022-07-27 18:36:21 [INFO] <ll> = =[m
+2022-07-27 18:36:25 [INFO] <shun> ÊÖ»úÒò¸ÃÓÐ½ØÍ¼[m
+2022-07-27 18:36:31 [INFO] <shun> ÎÒ³ò³ò[m
+2022-07-27 18:37:21 [INFO] <shun> 119 63 250[m
+2022-07-27 18:37:37 [INFO] ll issued server command: /tp 119 63 250
+2022-07-27 18:37:37 [INFO] ll: Teleported ll to 119.50, 63.50, 250.50[m
+2022-07-27 18:37:44 [INFO] shun was slain by Zombie
+2022-07-27 18:37:44 [INFO] shun issued server command: /tp ll\
+2022-07-27 18:38:11 [INFO] ll issued server command: /tp shun
+2022-07-27 18:38:11 [INFO] ll: Teleported ll to shun[m
+2022-07-27 18:38:26 [INFO] shun issued server command: /tp ll
+2022-07-27 18:38:26 [INFO] shun: Teleported shun to ll[m
+2022-07-27 18:38:29 [INFO] ll was slain by Zombie
+2022-07-27 18:38:35 [INFO] shun was slain by Zombie
+2022-07-27 18:38:39 [INFO] ll issued server command: /tp shun
+2022-07-27 18:38:39 [INFO] ll: Teleported ll to shun[m
+2022-07-27 18:38:44 [INFO] ll was slain by Zombie
+2022-07-27 18:39:20 [INFO] ll issued server command: /tp shun
+2022-07-27 18:39:20 [INFO] ll: Teleported ll to shun[m
+2022-07-27 18:39:40 [INFO] shun issued server command: /tp ll
+2022-07-27 18:39:40 [INFO] shun: Teleported shun to ll[m
+2022-07-27 18:39:56 [INFO] <shun> pao[m
+2022-07-27 18:40:10 [INFO] ll was slain by Zombie
+2022-07-27 18:40:19 [INFO] ll issued server command: /tp shun
+2022-07-27 18:40:19 [INFO] ll: Teleported ll to shun[m
+2022-07-27 18:41:18 [INFO] shun issued server command: /tp ll
+2022-07-27 18:41:18 [INFO] shun: Teleported shun to ll[m
+2022-07-27 18:41:42 [INFO] <shun> genwo pao[m
+2022-07-27 18:42:05 [INFO] ll issued server command: /tp 119 63 250
+2022-07-27 18:42:05 [INFO] ll: Teleported ll to 119.50, 63.50, 250.50[m
+2022-07-27 18:42:40 [INFO] shun issued server command: /tp ll
+2022-07-27 18:42:40 [INFO] shun: Teleported shun to ll[m
+2022-07-27 18:42:52 [INFO] <shun> ÄÏ¹ÏÄØ[m
+2022-07-27 18:43:24 [INFO] <shun> ±ð[m
+2022-07-27 18:43:32 [INFO] <shun> ÄÏ¹Ï²»ÊÇÕâÃ´ÖÐµÄ[m
+2022-07-27 18:45:07 [INFO] <shun> ÓÐÖ»ÖíÔÚÖíÈ¦Àï[m
+2022-07-27 18:45:50 [INFO] <shun> Ö©ÖëÄÜÎÞÏÞÅÀÇ½[m
+2022-07-27 18:46:13 [INFO] <shun> ÓÐÒ»Ö»ÖíÖíÅÜÁË[m
+2022-07-27 18:48:03 [INFO] <shun> ËãÁË[m
+2022-07-27 18:48:42 [INFO] <shun> ÄÃÒ»¸ö°°[m
+2022-07-27 18:48:53 [INFO] <shun> °²·ÊÖíÉíÉÏ[m
+2022-07-27 18:49:05 [INFO] <ll> ÎÒ»ØÈ¥ÄÃµãÌú[m
+2022-07-27 18:51:01 [INFO] ll issued server command: /tp shun
+2022-07-27 18:51:01 [INFO] ll: Teleported ll to shun[m
+2022-07-27 18:51:40 [INFO] <shun> ÄÃÄÄ¸ö[m
+2022-07-27 18:51:54 [INFO] <shun> ÄÃÄÄ¸ö¾ÍÄÜÆï[m
+2022-07-27 18:56:48 [INFO] shun was shot by Skeleton
+2022-07-27 18:57:01 [INFO] ll issued server command: /tp shun
+2022-07-27 18:57:01 [INFO] ll: Teleported ll to shun[m
+2022-07-27 18:57:35 [INFO] <shun> ÕâÖí×Ô¼ºÉÏÊ÷[m
+2022-07-27 18:57:42 [INFO] <shun> Ä¸ÖíÉÏÊ÷[m
+2022-07-27 18:57:48 [INFO] <shun> ²»ÊÜ¿ØÖÆ[m
+2022-07-27 18:58:21 [INFO] shun was slain by Zombie
+2022-07-27 18:59:34 [INFO] ll was slain by Zombie
+2022-07-27 18:59:53 [INFO] shun issued server command: /tp ll
+2022-07-27 18:59:53 [INFO] shun: Teleported shun to ll[m
+2022-07-27 19:02:08 [INFO] <shun> ÎÒ¸úÄãËµ[m
+2022-07-27 19:02:16 [INFO] <shun> ·þÎñÆ÷ÄÜ´ò×ÖÁË[m
+2022-07-27 19:02:23 [INFO] <shun> Ö®ºó[m
+2022-07-27 19:02:32 [INFO] <ll> ÎÒÓÃÕâ¸ö´ò×ÖÓÐµã²»·½±ã[m
+2022-07-27 19:02:33 [INFO] <shun> ¾ÍÓÐºÜ¶àÎÊÌâ[m
+2022-07-27 19:02:40 [INFO] <shun> ²»ÊÜ¼à¹Ü[m
+2022-07-27 19:02:51 [INFO] <shun> ÒÔÇ°·þÎñÆ÷¾ÍÓÐÒ»¶ÑÓÃÕâ¸öÁÄÌì[m
+2022-07-27 19:02:58 [INFO] <shun> Ö®ºóÎ¥·¨·¸×ï[m
+2022-07-27 19:03:08 [INFO] <ll> ÌýËµ¹ý¡¢[m
+2022-07-27 19:03:22 [INFO] <ll> ×ß[m
+2022-07-27 19:04:00 [INFO] <shun> Ö®ºóÎ¥·¨·¸×ï[m
+2022-07-27 19:04:04 [INFO] shun issued server command: /tp ll
+2022-07-27 19:04:04 [INFO] shun: Teleported shun to ll[m
+2022-07-27 19:04:57 [INFO] shun issued server command: /tp ll
+2022-07-27 19:04:57 [INFO] shun: Teleported shun to ll[m
+2022-07-27 19:06:03 [INFO] shun issued server command: /tp ll
+2022-07-27 19:06:03 [INFO] shun: Teleported shun to ll[m
+2022-07-27 19:06:48 [INFO] shun issued server command: /tp ll
+2022-07-27 19:06:48 [INFO] shun: Teleported shun to ll[m
+2022-07-27 19:08:06 [INFO] <shun> ÕâÓÐÌúºÍ½ð×Ó[m
+2022-07-27 19:08:16 [INFO] ll issued server command: /tp shun
+2022-07-27 19:08:16 [INFO] ll: Teleported ll to shun[m
+2022-07-27 19:08:23 [INFO] <shun> ÎÒÏëÆðÀ´ÁËÌú¿ÉÒÔ×öÕÙ»½ÊÞ[m
+2022-07-27 19:08:33 [INFO] <shun> ÄÏ¹ÏºÍÌú[m
+2022-07-27 19:08:42 [INFO] <shun> ÄÜ×Ô¶¯´ò¹Ö[m
+2022-07-27 19:09:15 [INFO] <shun> »ØÈ¥¸ø¼ÒÎ§ÉÏ36¸öºÍÒ»¸öÄÏ¹Ï[m
+2022-07-27 19:09:30 [INFO] <ll> hao[m
+2022-07-27 19:10:00 [INFO] <ll> ºÃ¶à½ð×Ó[m
+2022-07-27 19:10:07 [INFO] <shun> ·¢ÁË[m
+2022-07-27 19:10:44 [INFO] <shun> ÓÐÃ»ÓÐ¸å×Ó ÁË[m
+2022-07-27 19:11:11 [INFO] <shun> ÕâÓÖÂÌ±¦Ê¯[m
+2022-07-27 19:11:12 [INFO] <ll> ¸øÄã[m
+2022-07-27 19:12:00 [INFO] <shun> Õâ»¹ÓÐÒ»¸ö[m
+2022-07-27 19:14:54 [INFO] <ll> ÎÒ»ØÈ¥Ò»ÌË[m
+2022-07-27 19:15:10 [INFO] ll issued server command: /tp 110 63 250
+2022-07-27 19:15:10 [INFO] ll: Teleported ll to 110.50, 63.50, 250.50[m
+2022-07-27 19:17:55 [INFO] ll issued server command: /tp shun
+2022-07-27 19:17:55 [INFO] ll: Teleported ll to shun[m
+2022-07-27 19:20:10 [INFO] shun tried to swim in lava
+2022-07-27 19:20:19 [INFO] shun issued server command: /tp ll
+2022-07-27 19:20:19 [INFO] shun: Teleported shun to ll[m
+2022-07-27 19:20:41 [INFO] <ll> hhhhhh[m
+2022-07-27 19:20:52 [INFO] <shun> ÍÚµ½ÑÝ½²ÁË[m
+2022-07-27 19:21:10 [INFO] <ll> »»¸öµØ·½ÍÚ[m
+2022-07-27 19:21:51 [INFO] <shun> wc diamond[m
+2022-07-27 19:22:41 [INFO] <ll> ÔÛÁ©Õâ´ÎÊÇ²»ÊÇ¿ÉÒÔÑÐ¾¿ÑÐ¾¿¸½Ä§Ì¨[m
+2022-07-27 19:22:47 [INFO] <shun> dui[m
+2022-07-27 19:25:19 [INFO] <shun> »Ø¼Ò°É[m
+2022-07-27 19:25:53 [INFO] ll issued server command: /tp 119 63 250
+2022-07-27 19:25:53 [INFO] ll: Teleported ll to 119.50, 63.50, 250.50[m
+2022-07-27 19:25:54 [INFO] shun issued server command: /tp ll
+2022-07-27 19:25:54 [INFO] shun: Teleported shun to ll[m
+2022-07-27 19:34:09 [INFO] <shun> µÈÒ»»áÏÈÕû¸öÕÙ»½ÊÞ¿´¼Ò[m
+2022-07-27 19:34:10 [INFO] ll was slain by Zombie
+2022-07-27 19:35:08 [INFO] <ll> ÎÒÅª³öÁËÊé£¬ÔÛÁ©¸ÕÍÚµ½×êÊ¯£¬Ò»»áÈ¥ÄÚ±ß¿óÇøÍÚÁ½¸öºÚê×Ê¯×ö¸½Ä§Ì¨°É[m
+2022-07-27 19:35:19 [INFO] <shun> ¿ÉÒÔ[m
+2022-07-27 19:35:25 [INFO] <shun> ÕÒ¸öµ¥¶ÀµÄµØ·½[m
+2022-07-27 19:35:35 [INFO] <ll> ÉÏ´²[m
+2022-07-27 19:35:47 [INFO] <shun> ÓÃÊé¼ÜÎ§×¡Ò»¶¨·½Ê½ÄÜ×ö³öÀ´¸ß¼¶¸½Ä§Ì¨[m
+2022-07-27 19:35:49 [INFO] <ll> À´Ñ½Ê·µÙ·Ò[m
+2022-07-27 19:36:08 [INFO] <ll> ×êÊ¯¸äÄÃ×Å[m
+2022-07-27 19:36:14 [INFO] <shun> µÈ»á[m
+2022-07-27 19:36:21 [INFO] <shun> ÏÈÅªÕÙ»½ÊÞ[m
+2022-07-27 19:36:28 [INFO] <shun> ¿´¼Ò[m
+2022-07-27 19:37:54 [INFO] <shun> À´¿´[m
+2022-07-27 19:38:23 [INFO] <shun> Ä§·¨[m
+2022-07-27 19:38:56 [INFO] <ll> ÍÛ[m
+2022-07-27 19:39:12 [INFO] <shun> ÕâÍæÒâÌØ¸øÁ¦[m
+2022-07-27 19:39:15 [INFO] <ll> ÔÙ×öÒ»¸ö[m
+2022-07-27 19:39:23 [INFO] <shun> ÄÜ°Ñ½©Ê¬´ò·ÉÌì[m
+2022-07-27 19:39:33 [INFO] <ll> Ò»¸öÌ«¹Âµ¥ÁË[m
+2022-07-27 19:39:39 [INFO] <shun> ÒªÓÃ36¸öÌúºÍÒ»¸öÄÏ¹Ï[m
+2022-07-27 19:39:50 [INFO] <ll> ×ß[m
+2022-07-27 19:40:01 [INFO] <ll> ÍÚ¿óÈ¥×ö¸½Ä§Ì¨[m
+2022-07-27 19:41:40 [INFO] <ll> ×ßÂï¸ç¸ç[m
+2022-07-27 19:41:58 [INFO] <shun> zou[m
+2022-07-27 19:42:48 [INFO] <ll> zou[m
+2022-07-27 19:43:02 [INFO] <shun> zou[m
+2022-07-27 19:43:11 [INFO] <ll> »ð°Ñ¸øÎÒµã£¬»¹ÓÐ¼õºÍÐ¡Ôæ×Ó[m
+2022-07-27 19:43:18 [INFO] <shun> xing[m
+2022-07-27 19:44:20 [INFO] <shun> ¿É¿É¶¹ÖÐÁË°É[m
+2022-07-27 19:44:37 [INFO] <ll> goule zou[m
+2022-07-27 19:47:50 [INFO] shun issued server command: /tp ll
+2022-07-27 19:47:50 [INFO] shun: Teleported shun to ll[m
+2022-07-27 19:48:04 [INFO] <shun> ¶ÔÁË[m
+2022-07-27 19:48:17 [INFO] <shun> ¿ÉÒÔÓÃÌú×öÌúÕè£¬ÐÞ¸´ÎïÆ·[m
+2022-07-27 19:48:48 [INFO] shun issued server command: /tp ll
+2022-07-27 19:48:48 [INFO] shun: Teleported shun to ll[m
+2022-07-27 19:49:59 [INFO] shun issued server command: /tp ll
+2022-07-27 19:49:59 [INFO] shun: Teleported shun to ll[m
+2022-07-27 19:50:09 [INFO] shun issued server command: /tp ll
+2022-07-27 19:50:09 [INFO] shun: Teleported shun to ll[m
+2022-07-27 19:50:49 [INFO] shun issued server command: /tp ll
+2022-07-27 19:50:49 [INFO] shun: Teleported shun to ll[m
+2022-07-27 19:52:17 [INFO] <ll> ¹»ÁË£¬»ØÈ¥»¹ÊÇÔÚÕÒÕÒÌú[m
+2022-07-27 19:52:36 [INFO] <shun> ÌúË­×îÓÐÓÃµÄ[m
+2022-07-27 19:53:02 [INFO] <shun> ÌúË­×îÓÐÓÃµÄ[m
+2022-07-27 19:53:05 [INFO] shun issued server command: /tp ll
+2022-07-27 19:53:05 [INFO] shun: Teleported shun to ll[m
+2022-07-27 19:54:23 [INFO] shun issued server command: /tp nongchang
+2022-07-27 19:54:47 [INFO] shun issued server command: /tp 126 64 242
+2022-07-27 19:54:47 [INFO] shun: Teleported shun to 126.50, 64.50, 242.50[m
+2022-07-27 19:55:12 [INFO] ll issued server command: /tp shun
+2022-07-27 19:55:12 [INFO] ll: Teleported ll to shun[m
+2022-07-27 19:55:49 [INFO] <ll> ÔÛÁ©¾ÍÌ½Ë÷ÁËÒ»±ß£¬ÄÚ¸ö¿ó¶´ÓÐÁ½¸ö£¬×ßÈ¥ÄÚ±ßµÄ¿´¿´[m
+2022-07-27 19:56:03 [INFO] <ll> ÏÈ×ö¸½Ä§Ì¨£¿[m
+2022-07-27 20:03:16 [INFO] ll issued server command: /tp 433 70 81
+2022-07-27 20:03:16 [INFO] ll: Teleported ll to 433.50, 70.50, 81.50[m
+2022-07-27 20:03:21 [INFO] shun issued server command: /tp ll
+2022-07-27 20:03:21 [INFO] shun: Teleported shun to ll[m
+2022-07-27 20:04:00 [INFO] shun issued server command: /tp ll
+2022-07-27 20:04:00 [INFO] shun: Teleported shun to ll[m
+2022-07-27 20:04:16 [INFO] <shun> ¸½Ä§Ì¨ÄØ[m
+2022-07-27 20:04:29 [INFO] <ll> ÎÒÃÃ×ö[m
+2022-07-27 20:04:34 [INFO] <ll> »ØÈ¥×ö[m
+2022-07-27 20:04:39 [INFO] shun issued server command: /tp 126 64 242
+2022-07-27 20:04:39 [INFO] shun: Teleported shun to 126.50, 64.50, 242.50[m
+2022-07-27 20:05:11 [INFO] ll issued server command: /tp 196 63 250
+2022-07-27 20:05:11 [INFO] ll: Teleported ll to 196.50, 63.50, 250.50[m
+2022-07-27 20:05:31 [INFO] <shun> ºÚê×Ê¯[m
+2022-07-27 20:07:28 [INFO] <shun> ºÃÊ¹ÁË[m
+2022-07-27 20:09:50 [INFO] <ll> sÎÒ×öÁËÈý¸öÊé¼Ü[m
+2022-07-27 20:10:15 [INFO] <ll> ¹ÖÎïÄØ[m
+2022-07-27 20:10:24 [INFO] <ll> ÄÚ¸ö36¸öÌú[m
+2022-07-27 20:10:34 [INFO] <shun> ½øÎÝÁË[m
+2022-07-27 20:10:38 [INFO] <shun> Ð¦ËÀÎÒÁË[m
+2022-07-27 20:10:45 [INFO] <shun> ÄÜÃëÉ±½©Ê¬[m
+2022-07-27 20:10:58 [INFO] <shun> ¾ÍÊÇ²»¸É»î[m
+2022-07-27 20:11:54 [INFO] <shun> ÐèÒªÊé¼Ü[m
+2022-07-27 20:11:58 [INFO] <ll> Êé¼ÜÔõÃ´ÓÃ[m
+2022-07-27 20:12:05 [INFO] <ll> ¸øÄã[m
+2022-07-27 20:12:10 [INFO] <shun> 12¸ö[m
+2022-07-27 20:12:56 [INFO] <ll> ÄÇÔÛ¼ÒÈ±Æ¤¸ï[m
+2022-07-27 20:13:01 [INFO] <shun> 32¸ö[m
+2022-07-27 20:13:17 [INFO] <ll> Òª¶àÉÙÊé¼Ü£¿£¿£¿[m
+2022-07-27 20:13:24 [INFO] <shun> 32[m
+2022-07-27 20:14:36 [INFO] <ll> ºÃËµ£¬·òÈË¸úÎÒ´òÅ£È¥£¬Ò»¸öÊé¼ÜÒªÈý¸öÆ¤¸ï[m
+2022-07-27 20:14:55 [INFO] <shun> ×Ô¼ºÑøÖ³²»ÏãÂð[m
+2022-07-27 20:15:25 [INFO] <ll> ÓÐµãÂý[m
+2022-07-27 20:15:37 [INFO] <ll> ÄãÑø×Å£¬ÎÒÈ¥´ò[m
+2022-07-27 20:15:38 [INFO] shun was slain by Zombie
+2022-07-27 20:15:48 [INFO] <shun> ²»ÊÇ[m
+2022-07-27 20:16:00 [INFO] <shun> ±£°²ÄØ[m
+2022-07-27 20:16:16 [INFO] <shun> ËÀÁË£¿[m
+2022-07-27 20:16:24 [INFO] <ll> ÔÛ¼Ò±£°²ºÃÏñÏÂ¿óÁË[m
+2022-07-27 20:16:30 [INFO] <shun> wc[m
+2022-07-27 20:16:32 [INFO] <shun> ÍêÁË[m
+2022-07-27 20:16:38 [INFO] <ll> ¿óÀïÓÐ¹ÖÎï[m
+2022-07-27 20:16:42 [INFO] <shun> ¿ìÕû[m
+2022-07-27 20:16:56 [INFO] <shun> ÕýÉÏÀ´[m
+2022-07-27 20:17:23 [INFO] <shun> ÈÃËû¿´¼Ò[m
+2022-07-27 20:19:54 [INFO] shun issued server command: /give shun 420
+2022-07-27 20:19:54 [INFO] shun: Gave shun some 420 (LEASH)[m
+2022-07-27 20:21:13 [INFO] <shun> Ìú°¡[m
+2022-07-27 20:21:19 [INFO] <shun> È«ÀË·ÑÁË[m
+2022-07-27 20:23:04 [INFO] <ll> ÍøÉÏ´§[m
+2022-07-27 20:24:08 [INFO] <shun> Éþ×ÓÄØ[m
+2022-07-27 20:24:53 [INFO] <ll> µöÏÂÍ·ÁËºÃÏñ[m
+2022-07-27 20:24:59 [INFO] <shun> ²ÅÕÙ»½³öÀ´¾ÍÑ§»Ø»áÍµÀÁ ÁË[m
+2022-07-27 20:25:14 [INFO] <ll> ±£°²ÓÐµã±¿¡¢[m
+2022-07-27 20:25:38 [INFO] <ll> ¿ó¶´ÎÒ·âÉÏÁË£¬ÎÒÈ¥´óÅ£Å££¬Äã·±Ö³[m
+2022-07-27 20:25:45 [INFO] <shun> ok[m
+2022-07-27 20:26:46 [INFO] ll issued server command: /tp 433 70 81
+2022-07-27 20:26:46 [INFO] ll: Teleported ll to 433.50, 70.50, 81.50[m
+2022-07-27 20:29:55 [INFO] ll issued server command: /tp shun
+2022-07-27 20:29:56 [INFO] ll: Teleported ll to shun[m
+2022-07-27 20:31:23 [INFO] <shun> Õâ»ØÅÜ²»ÁËÁË[m
+2022-07-27 20:32:25 [INFO] <shun> ¹É·Ý¸øÎÒiÎÒ[m
+2022-07-27 20:32:42 [INFO] <shun> ¹Ç·Û[m
+2022-07-27 20:35:55 [INFO] <shun> ±£°²Õ¦ÎÞ¶¯ÓÚÖÔ[m
+2022-07-27 20:35:58 [INFO] <ll> ÌúÕ±ÔõÃ´×ö[m
+2022-07-27 20:36:05 [INFO] ll was slain by Zombie
+2022-07-27 20:36:50 [INFO] <ll> ÄÚÎÒ¼ñ¸öÀ¶É«Æ·ÖÊµÄÍ·¿ø£¬²ÐÑª£¬ÏëÓÃÌúÕ±ÐÞÒ»ÏÂ[m
+2022-07-27 20:37:09 [INFO] <shun> ×öÒ»¸ö[m
+2022-07-27 20:37:47 [INFO] <shun> »¹ÓÐÌúÂð[m
+2022-07-27 20:37:54 [INFO] <shun> »¹²îÀ´[m
+2022-07-27 20:37:59 [INFO] <shun> »¹²îÁ©[m
+2022-07-27 20:38:19 [INFO] <shun> ±£°²°Ñ×Ô¼º¹ØÖíÈ¦ÀïÁË[m
+2022-07-27 20:38:38 [INFO] <ll> Ã»ÓÐÁË[m
+2022-07-27 20:38:52 [INFO] <ll> ÌúÔ­Ê¯Ê£Ò»¸ö[m
+2022-07-27 20:39:04 [INFO] <shun> Á·ÁË[m
+2022-07-27 20:43:46 [INFO] <ll> À´Èý¸öÕ¤À¸ÃÅ°´ÉÏ[m
+2022-07-27 20:44:41 [INFO] <ll> ÄãÕâÖíÎÒ´òËÀÁË[m
+2022-07-27 20:48:00 [INFO] ll issued server command: /tp 433 70 81
+2022-07-27 20:48:00 [INFO] ll: Teleported ll to 433.50, 70.50, 81.50[m
+2022-07-27 20:51:43 [INFO] ll issued server command: /tp shun
+2022-07-27 20:51:43 [INFO] ll: Teleported ll to shun[m
+2022-07-27 20:53:10 [INFO] shun issued server command: /tp ll
+2022-07-27 20:53:10 [INFO] shun: Teleported shun to ll[m
+2022-07-27 20:53:45 [INFO] <shun> »¹²îÒ»¸öÌú[m
+2022-07-27 20:55:18 [INFO] <shun> ¼¦ÅÜÁËÒ»¸ö[m
+2022-07-27 21:01:50 [INFO] <shun> w[m
+2022-07-27 21:02:22 [INFO] Read timed out
+2022-07-27 21:02:22 [INFO] ll lost connection: disconnect.endOfStream
+2022-07-27 21:02:22 [INFO] ¡ìell left the game.
+2022-07-27 21:02:25 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-27 21:02:28 [INFO] ll[/192.168.101.26:54990] logged in with entity id 33771 at ([world] 128.36787765753712, 63.0, 250.45627897852802)
+2022-07-27 21:03:17 [INFO] <shun> wc[m
+2022-07-27 21:03:21 [INFO] <shun> ¼Ò±ßÉÏ[m
+2022-07-27 21:03:27 [INFO] <shun> ¿àÁ¦ÅÂ[m
+2022-07-27 21:03:37 [INFO] <shun> climber[m
+2022-07-27 21:04:05 [INFO] <ll> tnt?[m
+2022-07-27 21:04:12 [INFO] <shun> Õ¨ÁË[m
+2022-07-27 21:04:29 [INFO] <ll> ÔÛµÄÈ¥ÕÒÒ»Ö»Ã¨[m
+2022-07-27 21:06:00 [INFO] <shun> ±£°²ÖÕÓÚÉÏ°àÁË[m
+2022-07-27 21:06:21 [INFO] <shun> ×ß°É[m
+2022-07-27 21:08:45 [INFO] <ll> ÎÒÅÂÌú¿þÀÜµöºúÀö[m
+2022-07-27 21:08:53 [INFO] <shun> ²»ÄÜ[m
+2022-07-27 21:09:00 [INFO] <ll> ÕâÃ´Î§Ò»È¦Ó°²»Ó°ÏìµØ[m
+2022-07-27 21:09:09 [INFO] <shun> Í¦Ö»ÄÜ[m
+2022-07-27 21:09:17 [INFO] <shun> µØÖÐ¼äÎÒ·ÅË®À´ÁË[m
+2022-07-27 21:09:27 [INFO] <shun> µØÖÐ¼äÎÒ·ÅË®L[m
+2022-07-27 21:11:33 [INFO] <shun> µÃÖÁÉÙÓÐÁ©´óµÄ[m
+2022-07-27 21:11:45 [INFO] <shun> Ð¡Å£Éú²»ÁË[m
+2022-07-27 21:12:33 [INFO] <shun> ËüÕ¦ÓÖ½øÖíÈ¦ÁË[m
+2022-07-27 21:14:11 [INFO] <shun> ÕâÂ¥ÌÝÓÐbug[m
+2022-07-27 21:14:29 [INFO] <shun> Õ¾ÄÇÉÏ¾ÍÄÜµô½øÖíÈ¦[m
+2022-07-27 21:16:56 [INFO] <shun> Õâ±¿Öí¿ÉÄÄÅÜ[m
+2022-07-27 21:17:16 [INFO] <shun> ¸Ð¾õÓÐÖíÎÁ ÓÐµÄÖí·èÁË[m
+2022-07-27 21:21:36 [INFO] <shun> Óã[m
+2022-07-27 21:23:26 [INFO] <shun> LAI[m
+2022-07-27 21:23:34 [INFO] <shun> À´ÄÏ¹ÏÌ¨[m
+2022-07-27 21:23:51 [INFO] <shun> ¶Ô¹þ[m
+2022-07-27 21:24:03 [INFO] <shun> ÎÒÕ¦Ã»Ïëµ½¸øµöÓã¸Í¸½Ä§ÄØ[m
+2022-07-27 21:24:20 [INFO] <shun> ²»ºÃÊ¹[m
+2022-07-27 21:24:47 [INFO] <shun> µÃ¸øÊé¸½Ä§£¬ÔÙÓÃÌúÕè¼Óµ½µö¸ÍÉÏ[m
+2022-07-27 21:28:15 [INFO] <shun> ÓãÆ¯³ÁÏÂÈ¥¾ÍÓÐÓã[m
+2022-07-27 21:30:09 [INFO] <shun> Ìú¿þÀÜºÃÏñÓÖ½øÖíÈ¦ÁË[m
+2022-07-27 21:30:35 [INFO] <ll> ËûÊÇ²»ÊÇTÌØ±ðÏ²»¶Öí¡£¡£[m
+2022-07-27 21:30:44 [INFO] <shun> ÊÇÄÄ¸öÂ¥ÌÝ[m
+2022-07-27 21:30:52 [INFO] <ll> °¡[m
+2022-07-27 21:30:56 [INFO] <shun> ÄÄ¸öÂ¥ÌÝÄÜÌø½øÖíÈ¦[m
+2022-07-27 21:31:30 [INFO] <shun> ¼¸ÌõÁË[m
+2022-07-27 21:31:38 [INFO] <ll> 7[m
+2022-07-27 21:31:41 [INFO] <shun> ![m
+2022-07-27 21:31:47 [INFO] <ll> 9[m
+2022-07-27 21:31:51 [INFO] <shun> ÎÒ²Å2Ìõ[m
+2022-07-27 21:44:40 [INFO] <shun> lai[m
+2022-07-27 21:44:52 [INFO] ll issued server command: /tp shun
+2022-07-27 21:44:52 [INFO] ll: Teleported ll to shun[m
+2022-07-27 21:45:24 [INFO] <shun> zheliyou[m
+2022-07-27 21:48:09 [INFO] <shun> bianl;e[m
+2022-07-27 21:48:15 [INFO] <shun> ±äÁË[m
+2022-07-27 21:48:57 [INFO] <shun> ²»Ì«´ÏÃ÷[m
+2022-07-27 21:54:15 [INFO] <shun> ÖíÅÜÁË[m
+2022-07-27 21:54:21 [INFO] <shun> ¾ø¶ÔÊÇÖíÎÁ[m
+2022-07-27 22:01:43 [INFO] <shun> ¹·×Ó»ØÀ´ÁË[m
+2022-07-27 22:02:23 [INFO] <shun> ÄãÓÐ¹ÇÍ·Âð[m
+2022-07-27 22:02:36 [INFO] <ll> no[m
+2022-07-27 22:03:49 [INFO] <shun> ÄãÖ®Ç°ÄÇÖ»ºÃÏñËÀÁË[m
+2022-07-27 22:04:03 [INFO] <shun> ÄãÔÙÑµÒ»Ö»[m
+2022-07-27 22:04:09 [INFO] <ll> ÔõÃ´Åª»ØÈ¥[m
+2022-07-27 22:04:22 [INFO] <shun> »®´¬[m
+2022-07-27 22:04:29 [INFO] <shun> ¹·»átp[m
+2022-07-27 22:05:00 [INFO] <shun> Õâ¸öÊÇÎÒµÄ[m
+2022-07-27 22:09:35 [INFO] <shun> ÏÈ»ØÐ¡ÎÝ[m
+2022-07-27 22:09:42 [INFO] <shun> Ã÷ÌìÔÙ×ß[m
+2022-07-27 22:10:52 [INFO] <shun> ÄãÑµÁËÁ©[m
+2022-07-27 22:11:36 [INFO] <shun> ÎÒµÄ¹·¹·×ß¶ªÁË[m
+2022-07-27 22:18:52 [INFO] <shun> ¸ú×ÅÎÒ[m
+2022-07-27 22:24:46 [INFO] <shun> Ìú¿þÀÜÕâ»ØÌý»°ÁË[m
+2022-07-27 22:25:10 [INFO] <shun> Ð¡¹·[m
+2022-07-27 22:30:36 [INFO] ll lost connection: disconnect.quitting
+2022-07-27 22:30:36 [INFO] Connection reset
+2022-07-27 22:30:36 [INFO] ¡ìell left the game.
+2022-07-27 22:30:37 [INFO] Connection reset
+2022-07-27 22:30:37 [INFO] shun lost connection: disconnect.quitting
+2022-07-27 22:30:37 [INFO] ¡ìeshun left the game.
+2022-07-27 22:30:44 [INFO] CONSOLE: Stopping the server..[m
+2022-07-27 22:30:44 [INFO] Stopping server
+2022-07-27 22:30:44 [INFO] Saving players
+2022-07-27 22:30:44 [WARNING] DSCT: socket closed
+2022-07-27 22:30:44 [INFO] Saving worlds
+2022-07-27 22:30:44 [INFO] Closing listening thread
+2022-07-27 22:30:44 [INFO] Saving chunks for level 'world'/Overworld
+2022-07-27 22:30:44 [INFO] Saving chunks for level 'DIM-1'/Nether
+2022-07-27 22:30:44 [INFO] Stopping server
