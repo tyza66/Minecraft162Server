@@ -1797,3 +1797,961 @@ Caused by: java.lang.RuntimeException: Attempted to load class ats for invalid s
 2022-07-28 09:42:26 [INFO] Server permissions file permissions.yml is empty, ignoring it
 2022-07-28 09:42:26 [INFO] Done (1.009s)! For help, type "help" or "?"
 2022-07-28 09:42:41 [SEVERE] Reached end of stream for /172.29.144.1
+2022-07-28 11:29:00 [INFO] Starting minecraft server version 1.6.2
+2022-07-28 11:29:00 [INFO] MinecraftForge v
+2022-07-28 11:29:00 [INFO] 9.10.0.804
+2022-07-28 11:29:00 [INFO]  Initialized
+
+2022-07-28 11:29:00 [INFO] Replaced 101 ore recipies
+2022-07-28 11:29:01 [INFO] Loading properties
+2022-07-28 11:29:01 [INFO] Default game type: SURVIVAL
+2022-07-28 11:29:01 [INFO] Generating keypair
+2022-07-28 11:29:01 [INFO] Starting Minecraft server on *:25565
+2022-07-28 11:29:02 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-36 (MC: 1.6.2) (Implementing API version 1.6.2-R0.1-SNAPSHOT)
+2022-07-28 11:29:02 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-07-28 11:29:02 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-07-28 11:29:02 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-07-28 11:29:02 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-07-28 11:29:02 [INFO] Preparing level "world"
+2022-07-28 11:29:02 [INFO] Registered command debug with permission node vanilla.command.debug
+2022-07-28 11:29:02 [INFO] Registered command spreadplayers with permission node vanilla.command.spreadplayers
+2022-07-28 11:29:02 [INFO] Registered command playsound with permission node vanilla.command.playsound
+2022-07-28 11:29:02 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2022-07-28 11:29:02 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 5958978434922792270)
+2022-07-28 11:29:02 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 4197503131016627863)
+2022-07-28 11:29:03 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 5958978434922792270)
+2022-07-28 11:29:03 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-07-28 11:29:03 [INFO] Done (0.900s)! For help, type "help" or "?"
+2022-07-28 11:30:33 [SEVERE] Reached end of stream for /172.29.144.1
+2022-07-28 11:30:41 [INFO] shun[/172.29.144.1:63562] logged in with entity id 215 at ([world] 126.34604964113478, 63.0, 249.8012268328103)
+2022-07-28 11:30:47 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-28 11:30:51 [INFO] ll[/192.168.101.26:54306] logged in with entity id 263 at ([world] 189.19336822521717, 63.0, 253.69380344091752)
+2022-07-28 11:33:13 [INFO] ll drowned
+2022-07-28 11:36:43 [INFO] shun issued server command: /tp ll
+2022-07-28 11:36:43 [INFO] shun: Teleported shun to ll[m
+2022-07-28 11:43:48 [INFO] ll issued server command: /tp shun
+2022-07-28 11:43:48 [INFO] ll: Teleported ll to shun[m
+2022-07-28 11:56:13 [SEVERE] java.lang.NoSuchMethodError: net.minecraft.src.ModLoader.getMinecraftInstance()Lnet/minecraft/client/Minecraft;
+2022-07-28 11:56:13 [SEVERE] 	at BlockTimberTree.func_71852_a(BlockTimberTree.java:20)
+2022-07-28 11:56:13 [SEVERE] 	at net.minecraft.world.chunk.Chunk.func_76592_a(Chunk.java:722)
+2022-07-28 11:56:13 [SEVERE] 	at net.minecraft.world.World.func_72832_d(World.java:821)
+2022-07-28 11:56:13 [SEVERE] 	at net.minecraft.world.World.func_94571_i(World.java:1013)
+2022-07-28 11:56:13 [SEVERE] 	at net.minecraft.block.Block.removeBlockByPlayer(Block.java:1691)
+2022-07-28 11:56:13 [SEVERE] 	at net.minecraft.item.ItemInWorldManager.func_73079_d(ItemInWorldManager.java:338)
+2022-07-28 11:56:13 [SEVERE] 	at net.minecraft.item.ItemInWorldManager.func_73084_b(ItemInWorldManager.java:473)
+2022-07-28 11:56:13 [SEVERE] 	at net.minecraft.item.ItemInWorldManager.func_73082_a(ItemInWorldManager.java:294)
+2022-07-28 11:56:13 [SEVERE] 	at net.minecraft.network.NetServerHandler.func_72510_a(NetServerHandler.java:778)
+2022-07-28 11:56:13 [SEVERE] 	at net.minecraft.network.packet.Packet14BlockDig.func_73279_a(Packet14BlockDig.java:67)
+2022-07-28 11:56:13 [SEVERE] 	at net.minecraft.network.TcpConnection.func_74428_b(TcpConnection.java:464)
+2022-07-28 11:56:13 [SEVERE] 	at net.minecraft.network.NetServerHandler.func_72570_d(NetServerHandler.java:230)
+2022-07-28 11:56:13 [SEVERE] 	at net.minecraft.network.NetworkListenThread.func_71747_b(NetworkListenThread.java:54)
+2022-07-28 11:56:13 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServerListenThread.func_71747_b(DedicatedServerListenThread.java:34)
+2022-07-28 11:56:13 [SEVERE] 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:872)
+2022-07-28 11:56:13 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:318)
+2022-07-28 11:56:13 [SEVERE] 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:741)
+2022-07-28 11:56:13 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:625)
+2022-07-28 11:56:13 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2022-07-28 11:56:13 [SEVERE] Encountered an unexpected exception NoSuchMethodError
+java.lang.NoSuchMethodError: net.minecraft.src.ModLoader.getMinecraftInstance()Lnet/minecraft/client/Minecraft;
+	at BlockTimberTree.func_71852_a(BlockTimberTree.java:20)
+	at net.minecraft.world.chunk.Chunk.func_76592_a(Chunk.java:722)
+	at net.minecraft.world.World.func_72832_d(World.java:821)
+	at net.minecraft.world.World.func_94571_i(World.java:1013)
+	at net.minecraft.block.Block.removeBlockByPlayer(Block.java:1691)
+	at net.minecraft.item.ItemInWorldManager.func_73079_d(ItemInWorldManager.java:338)
+	at net.minecraft.item.ItemInWorldManager.func_73084_b(ItemInWorldManager.java:473)
+	at net.minecraft.item.ItemInWorldManager.func_73082_a(ItemInWorldManager.java:294)
+	at net.minecraft.network.NetServerHandler.func_72510_a(NetServerHandler.java:778)
+	at net.minecraft.network.packet.Packet14BlockDig.func_73279_a(Packet14BlockDig.java:67)
+	at net.minecraft.network.TcpConnection.func_74428_b(TcpConnection.java:464)
+	at net.minecraft.network.NetServerHandler.func_72570_d(NetServerHandler.java:230)
+	at net.minecraft.network.NetworkListenThread.func_71747_b(NetworkListenThread.java:54)
+	at net.minecraft.server.dedicated.DedicatedServerListenThread.func_71747_b(DedicatedServerListenThread.java:34)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:872)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:318)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:741)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:625)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2022-07-28 11:56:13 [SEVERE] This crash report has been saved to: C:\Users\shun_\Desktop\Project\Public\Minecraft162Server\.\crash-reports\crash-2022-07-28_11.56.13-server.txt
+2022-07-28 11:56:43 [SEVERE] Reached end of stream for /172.29.144.1
+2022-07-28 11:56:43 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-28 11:56:48 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-28 11:56:54 [SEVERE] Reached end of stream for /172.29.144.1
+2022-07-28 11:57:01 [SEVERE] Reached end of stream for /172.29.144.1
+2022-07-28 11:57:23 [SEVERE] The server has stopped responding!
+2022-07-28 11:57:23 [SEVERE] Please report this to http://www.mcportcentral.co.za/
+2022-07-28 11:57:23 [SEVERE] Be sure to include ALL relevant console errors and Minecraft crash reports
+2022-07-28 11:57:23 [SEVERE] MCPC+ version: git-MCPC-Plus-jenkins-MCPC-Plus-36 (MC: 1.6.2)
+2022-07-28 11:57:23 [SEVERE] Current Thread State:
+2022-07-28 11:57:23 [SEVERE] ------------------------------
+2022-07-28 11:57:23 [SEVERE] Current Thread: File IO Thread
+2022-07-28 11:57:23 [SEVERE] 	PID: 31 | Suspended: false | Native: false | State: TIMED_WAITING
+2022-07-28 11:57:23 [SEVERE] 	Stack:
+2022-07-28 11:57:23 [SEVERE] 		java.lang.Thread.sleep(Native Method)
+2022-07-28 11:57:23 [SEVERE] 		net.minecraft.world.storage.ThreadedFileIOBase.func_75736_b(ThreadedFileIOBase.java:61)
+2022-07-28 11:57:23 [SEVERE] 		net.minecraft.world.storage.ThreadedFileIOBase.run(ThreadedFileIOBase.java:27)
+2022-07-28 11:57:23 [SEVERE] 		java.lang.Thread.run(Unknown Source)
+2022-07-28 11:57:23 [SEVERE] ------------------------------
+2022-07-28 11:57:23 [SEVERE] Current Thread: Spigot Metrics Thread
+2022-07-28 11:57:23 [SEVERE] 	PID: 30 | Suspended: false | Native: false | State: TIMED_WAITING
+2022-07-28 11:57:23 [SEVERE] 	Stack:
+2022-07-28 11:57:23 [SEVERE] 		java.lang.Object.wait(Native Method)
+2022-07-28 11:57:23 [SEVERE] 		java.util.TimerThread.mainLoop(Unknown Source)
+2022-07-28 11:57:23 [SEVERE] 		java.util.TimerThread.run(Unknown Source)
+2022-07-28 11:57:23 [SEVERE] ------------------------------
+2022-07-28 11:57:23 [SEVERE] Current Thread: Spigot Watchdog Thread
+2022-07-28 11:57:23 [SEVERE] 	PID: 29 | Suspended: false | Native: false | State: RUNNABLE
+2022-07-28 11:57:23 [SEVERE] 	Stack:
+2022-07-28 11:57:23 [SEVERE] 		sun.management.ThreadImpl.dumpThreads0(Native Method)
+2022-07-28 11:57:23 [SEVERE] 		sun.management.ThreadImpl.dumpAllThreads(Unknown Source)
+2022-07-28 11:57:23 [SEVERE] 		org.spigotmc.WatchdogThread.run(WatchdogThread.java:54)
+2022-07-28 11:57:23 [SEVERE] ------------------------------
+2022-07-28 11:57:23 [SEVERE] Current Thread: Listen thread
+2022-07-28 11:57:23 [SEVERE] 	PID: 28 | Suspended: false | Native: true | State: RUNNABLE
+2022-07-28 11:57:23 [SEVERE] 	Thread is waiting on monitor(s):
+2022-07-28 11:57:23 [SEVERE] 		Locked on:java.net.PlainSocketImpl.accept(Unknown Source)
+2022-07-28 11:57:23 [SEVERE] 	Stack:
+2022-07-28 11:57:23 [SEVERE] 		java.net.DualStackPlainSocketImpl.accept0(Native Method)
+2022-07-28 11:57:23 [SEVERE] 		java.net.DualStackPlainSocketImpl.socketAccept(Unknown Source)
+2022-07-28 11:57:23 [SEVERE] 		java.net.AbstractPlainSocketImpl.accept(Unknown Source)
+2022-07-28 11:57:23 [SEVERE] 		java.net.PlainSocketImpl.accept(Unknown Source)
+2022-07-28 11:57:23 [SEVERE] 		java.net.ServerSocket.implAccept(Unknown Source)
+2022-07-28 11:57:23 [SEVERE] 		java.net.ServerSocket.accept(Unknown Source)
+2022-07-28 11:57:23 [SEVERE] 		net.minecraft.server.ServerListenThread.run(ServerListenThread.java:82)
+2022-07-28 11:57:23 [SEVERE] ------------------------------
+2022-07-28 11:57:23 [SEVERE] Current Thread: Thread-6
+2022-07-28 11:57:23 [SEVERE] 	PID: 27 | Suspended: false | Native: true | State: RUNNABLE
+2022-07-28 11:57:23 [SEVERE] 	Thread is waiting on monitor(s):
+2022-07-28 11:57:23 [SEVERE] 		Locked on:org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:267)
+2022-07-28 11:57:23 [SEVERE] 		Locked on:org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:204)
+2022-07-28 11:57:23 [SEVERE] 	Stack:
+2022-07-28 11:57:23 [SEVERE] 		org.fusesource.jansi.internal.Kernel32._getch(Native Method)
+2022-07-28 11:57:23 [SEVERE] 		org.fusesource.jansi.internal.WindowsSupport.readByte(WindowsSupport.java:46)
+2022-07-28 11:57:23 [SEVERE] 		org.bukkit.craftbukkit.libs.jline.WindowsTerminal.readByte(WindowsTerminal.java:184)
+2022-07-28 11:57:23 [SEVERE] 		org.bukkit.craftbukkit.libs.jline.WindowsTerminal.access$000(WindowsTerminal.java:53)
+2022-07-28 11:57:23 [SEVERE] 		org.bukkit.craftbukkit.libs.jline.WindowsTerminal$1.read(WindowsTerminal.java:151)
+2022-07-28 11:57:23 [SEVERE] 		java.io.FilterInputStream.read(Unknown Source)
+2022-07-28 11:57:23 [SEVERE] 		org.bukkit.craftbukkit.libs.jline.console.ConsoleReader$1.read(ConsoleReader.java:167)
+2022-07-28 11:57:23 [SEVERE] 		org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:267)
+2022-07-28 11:57:23 [SEVERE] 		org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:204)
+2022-07-28 11:57:23 [SEVERE] 		org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:995)
+2022-07-28 11:57:23 [SEVERE] 		org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1167)
+2022-07-28 11:57:23 [SEVERE] 		net.minecraft.server.dedicated.DedicatedServerCommandThread.run(DedicatedServerCommandThread.java:37)
+2022-07-28 11:57:23 [SEVERE] ------------------------------
+2022-07-28 11:57:23 [SEVERE] Current Thread: DestroyJavaVM
+2022-07-28 11:57:23 [SEVERE] 	PID: 26 | Suspended: false | Native: false | State: RUNNABLE
+2022-07-28 11:57:23 [SEVERE] 	Stack:
+2022-07-28 11:57:23 [SEVERE] ------------------------------
+2022-07-28 11:57:23 [SEVERE] Current Thread: Server thread
+2022-07-28 11:57:23 [SEVERE] 	PID: 24 | Suspended: false | Native: false | State: TIMED_WAITING
+2022-07-28 11:57:23 [SEVERE] 	Stack:
+2022-07-28 11:57:23 [SEVERE] 		java.lang.Thread.sleep(Native Method)
+2022-07-28 11:57:23 [SEVERE] 		net.minecraft.server.dedicated.DedicatedServer.func_71228_a(DedicatedServer.java:288)
+2022-07-28 11:57:23 [SEVERE] 		net.minecraft.server.MinecraftServer.run(MinecraftServer.java:669)
+2022-07-28 11:57:23 [SEVERE] 		net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2022-07-28 11:57:23 [SEVERE] ------------------------------
+2022-07-28 11:57:23 [SEVERE] Current Thread: Thread-5
+2022-07-28 11:57:23 [SEVERE] 	PID: 25 | Suspended: false | Native: false | State: TIMED_WAITING
+2022-07-28 11:57:23 [SEVERE] 	Stack:
+2022-07-28 11:57:23 [SEVERE] 		java.lang.Thread.sleep(Native Method)
+2022-07-28 11:57:23 [SEVERE] 		net.minecraft.server.dedicated.DedicatedServerSleepThread.run(DedicatedServerSleepThread.java:23)
+2022-07-28 11:57:23 [SEVERE] ------------------------------
+2022-07-28 11:57:23 [SEVERE] Current Thread: Snooper Timer
+2022-07-28 11:57:23 [SEVERE] 	PID: 21 | Suspended: false | Native: false | State: TIMED_WAITING
+2022-07-28 11:57:23 [SEVERE] 	Stack:
+2022-07-28 11:57:23 [SEVERE] 		java.lang.Object.wait(Native Method)
+2022-07-28 11:57:23 [SEVERE] 		java.util.TimerThread.mainLoop(Unknown Source)
+2022-07-28 11:57:23 [SEVERE] 		java.util.TimerThread.run(Unknown Source)
+2022-07-28 11:57:23 [SEVERE] ------------------------------
+2022-07-28 11:57:23 [SEVERE] Current Thread: Attach Listener
+2022-07-28 11:57:23 [SEVERE] 	PID: 5 | Suspended: false | Native: false | State: RUNNABLE
+2022-07-28 11:57:23 [SEVERE] 	Stack:
+2022-07-28 11:57:23 [SEVERE] ------------------------------
+2022-07-28 11:57:23 [SEVERE] Current Thread: Signal Dispatcher
+2022-07-28 11:57:23 [SEVERE] 	PID: 4 | Suspended: false | Native: false | State: RUNNABLE
+2022-07-28 11:57:23 [SEVERE] 	Stack:
+2022-07-28 11:57:23 [SEVERE] ------------------------------
+2022-07-28 11:57:30 [SEVERE] Reached end of stream for /172.29.144.1
+2022-07-28 11:58:01 [INFO] Startup script '/path/to/server/start.sh' does not exist! Stopping server.
+2022-07-28 11:58:01 [INFO] Stopping server
+2022-07-28 11:58:26 [INFO] Starting minecraft server version 1.6.2
+2022-07-28 11:58:26 [INFO] MinecraftForge v
+2022-07-28 11:58:26 [INFO] 9.10.0.804
+2022-07-28 11:58:26 [INFO]  Initialized
+
+2022-07-28 11:58:26 [INFO] Replaced 101 ore recipies
+2022-07-28 11:58:27 [INFO] Loading properties
+2022-07-28 11:58:27 [INFO] Default game type: SURVIVAL
+2022-07-28 11:58:27 [INFO] Generating keypair
+2022-07-28 11:58:27 [INFO] Starting Minecraft server on *:25565
+2022-07-28 11:58:28 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-36 (MC: 1.6.2) (Implementing API version 1.6.2-R0.1-SNAPSHOT)
+2022-07-28 11:58:28 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-07-28 11:58:28 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-07-28 11:58:28 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-07-28 11:58:28 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-07-28 11:58:28 [INFO] Preparing level "world"
+2022-07-28 11:58:28 [INFO] Registered command debug with permission node vanilla.command.debug
+2022-07-28 11:58:28 [INFO] Registered command spreadplayers with permission node vanilla.command.spreadplayers
+2022-07-28 11:58:28 [INFO] Registered command playsound with permission node vanilla.command.playsound
+2022-07-28 11:58:28 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2022-07-28 11:58:29 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 5958978434922792270)
+2022-07-28 11:58:29 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 4197503131016627863)
+2022-07-28 11:58:29 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 5958978434922792270)
+2022-07-28 11:58:30 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-07-28 11:58:30 [INFO] Done (1.403s)! For help, type "help" or "?"
+2022-07-28 11:58:30 [SEVERE] Reached end of stream for /172.29.144.1
+2022-07-28 11:58:31 [SEVERE] Reached end of stream for /172.29.144.1
+2022-07-28 11:58:33 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-28 11:58:33 [INFO] /192.168.101.26:54310 lost connection
+2022-07-28 11:58:36 [INFO] shun[/172.29.144.1:51022] logged in with entity id 231 at ([world] 15.503498036283663, 68.0, 159.30000001192093)
+2022-07-28 11:58:50 [SEVERE] java.lang.NoSuchMethodError: net.minecraft.src.ModLoader.getMinecraftInstance()Lnet/minecraft/client/Minecraft;
+2022-07-28 11:58:50 [SEVERE] 	at BlockTimberTree.func_71852_a(BlockTimberTree.java:20)
+2022-07-28 11:58:50 [SEVERE] 	at net.minecraft.world.chunk.Chunk.func_76592_a(Chunk.java:722)
+2022-07-28 11:58:50 [SEVERE] 	at net.minecraft.world.World.func_72832_d(World.java:821)
+2022-07-28 11:58:50 [SEVERE] 	at net.minecraft.world.World.func_94571_i(World.java:1013)
+2022-07-28 11:58:50 [SEVERE] 	at net.minecraft.block.Block.removeBlockByPlayer(Block.java:1691)
+2022-07-28 11:58:50 [SEVERE] 	at net.minecraft.item.ItemInWorldManager.func_73079_d(ItemInWorldManager.java:338)
+2022-07-28 11:58:50 [SEVERE] 	at net.minecraft.item.ItemInWorldManager.func_73084_b(ItemInWorldManager.java:473)
+2022-07-28 11:58:50 [SEVERE] 	at net.minecraft.item.ItemInWorldManager.func_73082_a(ItemInWorldManager.java:294)
+2022-07-28 11:58:50 [SEVERE] 	at net.minecraft.network.NetServerHandler.func_72510_a(NetServerHandler.java:778)
+2022-07-28 11:58:50 [SEVERE] 	at net.minecraft.network.packet.Packet14BlockDig.func_73279_a(Packet14BlockDig.java:67)
+2022-07-28 11:58:50 [SEVERE] 	at net.minecraft.network.TcpConnection.func_74428_b(TcpConnection.java:464)
+2022-07-28 11:58:50 [SEVERE] 	at net.minecraft.network.NetServerHandler.func_72570_d(NetServerHandler.java:230)
+2022-07-28 11:58:50 [SEVERE] 	at net.minecraft.network.NetworkListenThread.func_71747_b(NetworkListenThread.java:54)
+2022-07-28 11:58:50 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServerListenThread.func_71747_b(DedicatedServerListenThread.java:34)
+2022-07-28 11:58:50 [SEVERE] 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:872)
+2022-07-28 11:58:50 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:318)
+2022-07-28 11:58:50 [SEVERE] 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:741)
+2022-07-28 11:58:50 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:625)
+2022-07-28 11:58:50 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2022-07-28 11:58:50 [SEVERE] Encountered an unexpected exception NoSuchMethodError
+java.lang.NoSuchMethodError: net.minecraft.src.ModLoader.getMinecraftInstance()Lnet/minecraft/client/Minecraft;
+	at BlockTimberTree.func_71852_a(BlockTimberTree.java:20)
+	at net.minecraft.world.chunk.Chunk.func_76592_a(Chunk.java:722)
+	at net.minecraft.world.World.func_72832_d(World.java:821)
+	at net.minecraft.world.World.func_94571_i(World.java:1013)
+	at net.minecraft.block.Block.removeBlockByPlayer(Block.java:1691)
+	at net.minecraft.item.ItemInWorldManager.func_73079_d(ItemInWorldManager.java:338)
+	at net.minecraft.item.ItemInWorldManager.func_73084_b(ItemInWorldManager.java:473)
+	at net.minecraft.item.ItemInWorldManager.func_73082_a(ItemInWorldManager.java:294)
+	at net.minecraft.network.NetServerHandler.func_72510_a(NetServerHandler.java:778)
+	at net.minecraft.network.packet.Packet14BlockDig.func_73279_a(Packet14BlockDig.java:67)
+	at net.minecraft.network.TcpConnection.func_74428_b(TcpConnection.java:464)
+	at net.minecraft.network.NetServerHandler.func_72570_d(NetServerHandler.java:230)
+	at net.minecraft.network.NetworkListenThread.func_71747_b(NetworkListenThread.java:54)
+	at net.minecraft.server.dedicated.DedicatedServerListenThread.func_71747_b(DedicatedServerListenThread.java:34)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:872)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:318)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:741)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:625)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2022-07-28 11:58:50 [SEVERE] This crash report has been saved to: C:\Users\shun_\Desktop\Project\Public\Minecraft162Server\.\crash-reports\crash-2022-07-28_11.58.50-server.txt
+2022-07-28 12:00:24 [INFO] Starting minecraft server version 1.6.2
+2022-07-28 12:00:24 [INFO] MinecraftForge v
+2022-07-28 12:00:24 [INFO] 9.10.0.804
+2022-07-28 12:00:24 [INFO]  Initialized
+
+2022-07-28 12:00:24 [INFO] Replaced 101 ore recipies
+2022-07-28 12:00:25 [INFO] Loading properties
+2022-07-28 12:00:25 [INFO] Default game type: SURVIVAL
+2022-07-28 12:00:25 [INFO] Generating keypair
+2022-07-28 12:00:25 [INFO] Starting Minecraft server on *:25565
+2022-07-28 12:00:26 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-36 (MC: 1.6.2) (Implementing API version 1.6.2-R0.1-SNAPSHOT)
+2022-07-28 12:00:26 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-07-28 12:00:26 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-07-28 12:00:26 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-07-28 12:00:26 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-07-28 12:00:26 [INFO] Preparing level "world"
+2022-07-28 12:00:26 [INFO] Registered command debug with permission node vanilla.command.debug
+2022-07-28 12:00:26 [INFO] Registered command spreadplayers with permission node vanilla.command.spreadplayers
+2022-07-28 12:00:26 [INFO] Registered command playsound with permission node vanilla.command.playsound
+2022-07-28 12:00:26 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2022-07-28 12:00:26 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 5958978434922792270)
+2022-07-28 12:00:26 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 4197503131016627863)
+2022-07-28 12:00:27 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 5958978434922792270)
+2022-07-28 12:00:27 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-07-28 12:00:27 [INFO] Done (0.829s)! For help, type "help" or "?"
+2022-07-28 12:00:31 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-28 12:00:31 [INFO] /192.168.101.26:54354 lost connection
+2022-07-28 12:01:27 [INFO] Starting minecraft server version 1.6.2
+2022-07-28 12:01:27 [INFO] MinecraftForge v
+2022-07-28 12:01:27 [INFO] 9.10.0.804
+2022-07-28 12:01:27 [INFO]  Initialized
+
+2022-07-28 12:01:27 [INFO] Replaced 101 ore recipies
+2022-07-28 12:01:28 [INFO] Loading properties
+2022-07-28 12:01:28 [INFO] Default game type: SURVIVAL
+2022-07-28 12:01:28 [INFO] Generating keypair
+2022-07-28 12:01:28 [INFO] Starting Minecraft server on *:25565
+2022-07-28 12:01:28 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-36 (MC: 1.6.2) (Implementing API version 1.6.2-R0.1-SNAPSHOT)
+2022-07-28 12:01:29 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-07-28 12:01:29 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-07-28 12:01:29 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-07-28 12:01:29 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-07-28 12:01:29 [INFO] Preparing level "world"
+2022-07-28 12:01:29 [INFO] Registered command debug with permission node vanilla.command.debug
+2022-07-28 12:01:29 [INFO] Registered command spreadplayers with permission node vanilla.command.spreadplayers
+2022-07-28 12:01:29 [INFO] Registered command playsound with permission node vanilla.command.playsound
+2022-07-28 12:01:29 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2022-07-28 12:01:29 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 5958978434922792270)
+2022-07-28 12:01:29 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 4197503131016627863)
+2022-07-28 12:01:30 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 5958978434922792270)
+2022-07-28 12:01:30 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-28 12:01:30 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-07-28 12:01:30 [INFO] Done (0.951s)! For help, type "help" or "?"
+2022-07-28 12:01:30 [INFO] /192.168.101.26:54396 lost connection
+2022-07-28 12:02:12 [INFO] Starting minecraft server version 1.6.2
+2022-07-28 12:02:12 [INFO] MinecraftForge v
+2022-07-28 12:02:12 [INFO] 9.10.0.804
+2022-07-28 12:02:12 [INFO]  Initialized
+
+2022-07-28 12:02:12 [INFO] Replaced 101 ore recipies
+2022-07-28 12:02:13 [INFO] Loading properties
+2022-07-28 12:02:13 [INFO] Default game type: SURVIVAL
+2022-07-28 12:02:13 [INFO] Generating keypair
+2022-07-28 12:02:13 [INFO] Starting Minecraft server on *:25565
+2022-07-28 12:02:13 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-36 (MC: 1.6.2) (Implementing API version 1.6.2-R0.1-SNAPSHOT)
+2022-07-28 12:02:13 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-07-28 12:02:13 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-07-28 12:02:13 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-07-28 12:02:13 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-07-28 12:02:14 [INFO] Preparing level "world"
+2022-07-28 12:02:14 [INFO] Registered command debug with permission node vanilla.command.debug
+2022-07-28 12:02:14 [INFO] Registered command spreadplayers with permission node vanilla.command.spreadplayers
+2022-07-28 12:02:14 [INFO] Registered command playsound with permission node vanilla.command.playsound
+2022-07-28 12:02:14 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2022-07-28 12:02:14 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 5958978434922792270)
+2022-07-28 12:02:14 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 4197503131016627863)
+2022-07-28 12:02:14 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 5958978434922792270)
+2022-07-28 12:02:15 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-07-28 12:02:15 [INFO] Done (0.908s)! For help, type "help" or "?"
+2022-07-28 12:02:15 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-28 12:02:15 [INFO] /192.168.101.26:54412 lost connection
+2022-07-28 12:02:35 [INFO] Starting minecraft server version 1.6.2
+2022-07-28 12:02:35 [INFO] MinecraftForge v
+2022-07-28 12:02:35 [INFO] 9.10.0.804
+2022-07-28 12:02:35 [INFO]  Initialized
+
+2022-07-28 12:02:35 [INFO] Replaced 101 ore recipies
+2022-07-28 12:02:36 [INFO] Loading properties
+2022-07-28 12:02:36 [INFO] Default game type: SURVIVAL
+2022-07-28 12:02:36 [INFO] Generating keypair
+2022-07-28 12:02:36 [INFO] Starting Minecraft server on *:25565
+2022-07-28 12:02:36 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-36 (MC: 1.6.2) (Implementing API version 1.6.2-R0.1-SNAPSHOT)
+2022-07-28 12:02:36 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-07-28 12:02:36 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-07-28 12:02:36 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-07-28 12:02:36 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-07-28 12:02:37 [INFO] Preparing level "world"
+2022-07-28 12:02:37 [INFO] Registered command debug with permission node vanilla.command.debug
+2022-07-28 12:02:37 [INFO] Registered command spreadplayers with permission node vanilla.command.spreadplayers
+2022-07-28 12:02:37 [INFO] Registered command playsound with permission node vanilla.command.playsound
+2022-07-28 12:02:37 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2022-07-28 12:02:37 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 5958978434922792270)
+2022-07-28 12:02:37 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 4197503131016627863)
+2022-07-28 12:02:37 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 5958978434922792270)
+2022-07-28 12:02:37 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-07-28 12:02:37 [INFO] Done (0.879s)! For help, type "help" or "?"
+2022-07-28 12:03:04 [SEVERE] Reached end of stream for /172.29.144.1
+2022-07-28 12:03:09 [INFO] shun[/172.29.144.1:51592] logged in with entity id 210 at ([world] 15.503498036283663, 68.0, 159.30000001192093)
+2022-07-28 12:04:57 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-28 12:05:01 [INFO] ll[/192.168.101.26:54418] logged in with entity id 449 at ([world] -2.2312825220568193, 63.0, 130.5601448323505)
+2022-07-28 12:09:59 [INFO] ll issued server command: /tp shun
+2022-07-28 12:09:59 [INFO] ll: Teleported ll to shun[m
+2022-07-28 12:11:15 [INFO] ll issued server command: /tp 193 63 250
+2022-07-28 12:11:15 [INFO] ll: Teleported ll to 193.50, 63.50, 250.50[m
+2022-07-28 12:14:19 [INFO] ll issued server command: /tp shun
+2022-07-28 12:14:19 [INFO] ll: Teleported ll to shun[m
+2022-07-28 12:21:37 [INFO] <shun> sleep[m
+2022-07-28 12:21:41 [INFO] <shun> Ë¯¾õ[m
+2022-07-28 12:24:50 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-28 12:24:56 [INFO] ¡ìell left the game.
+2022-07-28 12:24:56 [INFO] ll[/192.168.101.26:54422] logged in with entity id 5447 at ([world] 151.5351078868016, 63.0, 235.59527905296176)
+2022-07-28 12:24:57 [INFO] Read timed out
+2022-07-28 12:29:39 [INFO] shun issued server command: /tp 255 255 255
+2022-07-28 12:29:39 [INFO] shun: Teleported shun to 255.50, 255.50, 255.50[m
+2022-07-28 12:29:43 [INFO] shun fell from a high place
+2022-07-28 12:29:56 [INFO] shun issued server command: /tp 255 30 255
+2022-07-28 12:29:56 [INFO] shun: Teleported shun to 255.50, 30.50, 255.50[m
+2022-07-28 12:30:07 [INFO] shun suffocated in a wall
+2022-07-28 12:30:12 [INFO] shun issued server command: /tp 255 10 255
+2022-07-28 12:30:12 [INFO] shun: Teleported shun to 255.50, 10.50, 255.50[m
+2022-07-28 12:30:16 [INFO] shun issued server command: /tp 255 100 255
+2022-07-28 12:30:16 [INFO] shun: Teleported shun to 255.50, 100.50, 255.50[m
+2022-07-28 12:30:18 [INFO] shun was doomed to fall
+2022-07-28 12:30:29 [INFO] shun issued server command: /tp 1255 100 255
+2022-07-28 12:30:29 [INFO] shun: Teleported shun to 1255.50, 100.50, 255.50[m
+2022-07-28 12:31:06 [INFO] ll issued server command: /tp shun
+2022-07-28 12:31:06 [INFO] ll: Teleported ll to shun[m
+2022-07-28 12:31:26 [INFO] Connection reset
+2022-07-28 12:31:26 [INFO] ll lost connection: disconnect.overflow
+2022-07-28 12:31:26 [INFO] ¡ìell left the game.
+2022-07-28 12:31:49 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-28 12:31:53 [INFO] ll[/192.168.101.26:54426] logged in with entity id 11256 at ([world] 1233.2591432326983, 65.16610926093821, 258.26020265964314)
+2022-07-28 12:34:33 [INFO] ll issued server command: /tp 193 63 250
+2022-07-28 12:34:33 [INFO] ll: Teleported ll to 193.50, 63.50, 250.50[m
+2022-07-28 12:34:48 [INFO] Connection reset
+2022-07-28 12:34:48 [INFO] ll lost connection: disconnect.overflow
+2022-07-28 12:34:48 [INFO] ¡ìell left the game.
+2022-07-28 12:35:03 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-28 12:35:06 [INFO] ll[/192.168.101.26:54430] logged in with entity id 12185 at ([world] 193.5, 63.5, 250.5)
+2022-07-28 12:36:07 [INFO] ll issued server command: /tp shun
+2022-07-28 12:36:07 [INFO] ll: Teleported ll to shun[m
+2022-07-28 12:39:26 [INFO] ll issued server command: /tp 193 63 250
+2022-07-28 12:39:26 [INFO] ll: Teleported ll to 193.50, 63.50, 250.50[m
+2022-07-28 12:39:31 [INFO] shun issued server command: /tp ll
+2022-07-28 12:39:31 [INFO] shun: Teleported shun to ll[m
+2022-07-28 12:41:54 [INFO] ll was slain by Zombie
+2022-07-28 12:49:21 [INFO] shun issued server command: /tp 1000 50 250
+2022-07-28 12:49:21 [INFO] shun: Teleported shun to 1000.50, 50.50, 250.50[m
+2022-07-28 12:49:31 [INFO] shun suffocated in a wall
+2022-07-28 12:49:47 [INFO] shun issued server command: /tp 2000 100 30
+2022-07-28 12:49:47 [INFO] shun: Teleported shun to 2000.50, 100.50, 30.50[m
+2022-07-28 12:50:10 [INFO] shun issued server command: /tp 1000 100 30
+2022-07-28 12:50:10 [INFO] shun: Teleported shun to 1000.50, 100.50, 30.50[m
+2022-07-28 12:50:13 [INFO] shun fell from a high place
+2022-07-28 12:50:25 [INFO] shun issued server command: /tp 1000 600 30
+2022-07-28 12:50:25 [INFO] shun: Teleported shun to 1000.50, 600.50, 30.50[m
+2022-07-28 12:50:30 [INFO] shun issued server command: /tp 1000 60 30
+2022-07-28 12:50:30 [INFO] shun: Teleported shun to 1000.50, 60.50, 30.50[m
+2022-07-28 12:50:30 [INFO] shun was doomed to fall
+2022-07-28 12:50:35 [INFO] shun issued server command: /tp 1000 60 30
+2022-07-28 12:50:35 [INFO] shun: Teleported shun to 1000.50, 60.50, 30.50[m
+2022-07-28 12:50:42 [INFO] shun issued server command: /tp 1000 100 30
+2022-07-28 12:50:42 [INFO] shun: Teleported shun to 1000.50, 100.50, 30.50[m
+2022-07-28 12:50:44 [INFO] shun was doomed to fall
+2022-07-28 12:50:52 [INFO] shun issued server command: /tp 1000 800 30
+2022-07-28 12:50:52 [INFO] shun: Teleported shun to 1000.50, 800.50, 30.50[m
+2022-07-28 12:51:04 [INFO] shun fell from a high place
+2022-07-28 12:51:11 [INFO] shun issued server command: /tp 1000 80 30
+2022-07-28 12:51:11 [INFO] shun: Teleported shun to 1000.50, 80.50, 30.50[m
+2022-07-28 12:54:56 [INFO] shun issued server command: /tp 1000 80 1000
+2022-07-28 12:54:56 [INFO] shun: Teleported shun to 1000.50, 80.50, 1000.50[m
+2022-07-28 12:55:00 [INFO] shun fell from a high place
+2022-07-28 12:55:22 [INFO] shun issued server command: /tp 1000 50 1000
+2022-07-28 12:55:22 [INFO] shun: Teleported shun to 1000.50, 50.50, 1000.50[m
+2022-07-28 12:55:28 [INFO] shun issued server command: /tp 1000 80 1000
+2022-07-28 12:55:28 [INFO] shun: Teleported shun to 1000.50, 80.50, 1000.50[m
+2022-07-28 12:55:29 [INFO] shun was doomed to fall
+2022-07-28 12:55:35 [INFO] shun issued server command: /tp 1000 60 1000
+2022-07-28 12:55:35 [INFO] shun: Teleported shun to 1000.50, 60.50, 1000.50[m
+2022-07-28 12:55:40 [INFO] shun issued server command: /tp 1000 70 1000
+2022-07-28 12:55:40 [INFO] shun: Teleported shun to 1000.50, 70.50, 1000.50[m
+2022-07-28 12:57:29 [INFO] shun issued server command: /tp LL
+2022-07-28 12:57:29 [INFO] shun: Teleported shun to ll[m
+2022-07-28 12:58:21 [INFO] shun issued server command: /tp 1000 70 1500
+2022-07-28 12:58:21 [INFO] shun: Teleported shun to 1000.50, 70.50, 1500.50[m
+2022-07-28 13:01:19 [INFO] shun issued server command: /tp LL
+2022-07-28 13:01:19 [INFO] shun: Teleported shun to ll[m
+2022-07-28 13:02:49 [INFO] shun issued server command: /tp LL
+2022-07-28 13:02:49 [INFO] shun: Teleported shun to ll[m
+2022-07-28 13:20:50 [INFO] shun issued server command: /tp LL
+2022-07-28 13:20:50 [INFO] shun: Teleported shun to ll[m
+2022-07-28 13:33:11 [INFO] shun was slain by Enderman
+2022-07-28 13:33:25 [INFO] shun issued server command: /tp LL
+2022-07-28 13:33:25 [INFO] shun: Teleported shun to ll[m
+2022-07-28 13:33:34 [INFO] shun was slain by Wolf
+2022-07-28 13:33:38 [INFO] shun issued server command: /tp LL
+2022-07-28 13:33:38 [INFO] shun: Teleported shun to ll[m
+2022-07-28 13:33:54 [INFO] shun was slain by Wolf
+2022-07-28 13:34:05 [INFO] shun was slain by Wolf
+2022-07-28 13:34:27 [INFO] shun was slain by Wolf
+2022-07-28 13:34:35 [INFO] shun was slain by Wolf
+2022-07-28 13:34:44 [INFO] shun was slain by Wolf
+2022-07-28 13:34:51 [INFO] shun was slain by Wolf
+2022-07-28 13:36:02 [INFO] shun issued server command: /tp LL
+2022-07-28 13:36:02 [INFO] shun: Teleported shun to ll[m
+2022-07-28 13:40:26 [INFO] ll hit the ground too hard
+2022-07-28 13:45:55 [INFO] <shun> ´º×°[m
+2022-07-28 13:46:01 [INFO] shun issued server command: /loacte
+2022-07-28 13:47:35 [INFO] shun issued server command: /tp LL
+2022-07-28 13:47:35 [INFO] shun: Teleported shun to ll[m
+2022-07-28 13:51:08 [INFO] <shun> w[m
+2022-07-28 13:54:44 [INFO] shun issued server command: /tp LL
+2022-07-28 13:54:45 [INFO] shun: Teleported shun to ll[m
+2022-07-28 14:00:05 [INFO] ll issued server command: /tp shun
+2022-07-28 14:00:05 [INFO] ll: Teleported ll to shun[m
+2022-07-28 14:00:24 [INFO] Connection reset
+2022-07-28 14:00:24 [INFO] ll lost connection: disconnect.quitting
+2022-07-28 14:00:24 [INFO] removing player mount
+2022-07-28 14:00:24 [INFO] ¡ìell left the game.
+2022-07-28 14:00:27 [INFO] Connection reset
+2022-07-28 14:00:33 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-28 14:00:34 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-28 14:00:37 [INFO] ll[/192.168.101.26:54438] logged in with entity id 45704 at ([world] -462.58594143327144, 62.36378291558465, 932.6953392991068)
+2022-07-28 14:03:13 [INFO] shun was blown up by Creeper
+2022-07-28 14:03:18 [INFO] shun issued server command: /tp LL
+2022-07-28 14:03:18 [INFO] shun: Teleported shun to ll[m
+2022-07-28 14:03:45 [INFO] shun was shot by Skeleton
+2022-07-28 14:03:46 [INFO] ll was slain by Zombie
+2022-07-28 14:03:48 [INFO] shun issued server command: /tp LL
+2022-07-28 14:03:48 [INFO] shun: Teleported shun to ll[m
+2022-07-28 14:03:59 [INFO] ll issued server command: /tp shun
+2022-07-28 14:03:59 [INFO] ll: Teleported ll to shun[m
+2022-07-28 14:05:32 [INFO] <shun> renne[m
+2022-07-28 14:05:38 [INFO] shun was shot by Skeleton
+2022-07-28 14:05:39 [INFO] ll issued server command: /tp shun
+2022-07-28 14:05:39 [INFO] ll: Teleported ll to shun[m
+2022-07-28 14:05:51 [INFO] shun issued server command: /tp LL
+2022-07-28 14:05:51 [INFO] shun: Teleported shun to ll[m
+2022-07-28 14:06:18 [INFO] ll was slain by Zombie
+2022-07-28 14:06:24 [INFO] ll issued server command: /tp shun
+2022-07-28 14:06:24 [INFO] ll: Teleported ll to shun[m
+2022-07-28 14:06:32 [INFO] shun was slain by Zombie
+2022-07-28 14:06:36 [INFO] shun issued server command: /tp LL
+2022-07-28 14:06:36 [INFO] shun: Teleported shun to ll[m
+2022-07-28 14:06:40 [INFO] ll was slain by Zombie
+2022-07-28 14:06:56 [INFO] shun was slain by Zombie
+2022-07-28 14:07:04 [INFO] ll issued server command: /tp shun
+2022-07-28 14:07:04 [INFO] ll: Teleported ll to shun[m
+2022-07-28 14:07:18 [INFO] shun issued server command: /tp LL
+2022-07-28 14:07:18 [INFO] shun: Teleported shun to ll[m
+2022-07-28 14:08:20 [INFO] shun issued server command: /tp LL
+2022-07-28 14:08:20 [INFO] shun: Teleported shun to ll[m
+2022-07-28 14:10:57 [INFO] shun was blown up by Creeper
+2022-07-28 14:11:06 [INFO] shun issued server command: /tp LL
+2022-07-28 14:11:06 [INFO] shun: Teleported shun to ll[m
+2022-07-28 14:17:23 [INFO] shun was blown up by Creeper
+2022-07-28 14:17:29 [INFO] shun issued server command: /tp LL
+2022-07-28 14:17:29 [INFO] shun: Teleported shun to ll[m
+2022-07-28 14:17:51 [INFO] ll issued server command: /tp 196 63 250
+2022-07-28 14:17:51 [INFO] ll: Teleported ll to 196.50, 63.50, 250.50[m
+2022-07-28 14:18:27 [INFO] shun issued server command: /tp LL
+2022-07-28 14:18:27 [INFO] shun: Teleported shun to ll[m
+2022-07-28 14:20:00 [INFO] shun issued server command: /tp LL
+2022-07-28 14:20:00 [INFO] shun: Teleported shun to ll[m
+2022-07-28 14:20:22 [INFO] shun issued server command: /tp LL
+2022-07-28 14:20:22 [INFO] shun: Teleported shun to ll[m
+2022-07-28 14:22:38 [INFO] ll issued server command: /tp 192 63 250
+2022-07-28 14:22:38 [INFO] ll: Teleported ll to 192.50, 63.50, 250.50[m
+2022-07-28 14:25:40 [INFO] shun issued server command: /tp LL
+2022-07-28 14:25:40 [INFO] shun: Teleported shun to ll[m
+2022-07-28 14:30:14 [WARNING] ll moved too quickly! 1.6251413866739313,1.9653276481479907,12.517211815451788 (1.6251413866739313, 1.9653276481479907, 12.517211815451788)
+2022-07-28 14:31:17 [INFO] ll issued server command: /tp shun
+2022-07-28 14:31:17 [INFO] ll: Teleported ll to shun[m
+2022-07-28 14:31:21 [INFO] ll lost connection: disconnect.quitting
+2022-07-28 14:31:21 [INFO] Connection reset
+2022-07-28 14:31:21 [INFO] ¡ìell left the game.
+2022-07-28 14:31:24 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-28 14:31:26 [INFO] ll[/192.168.101.26:54442] logged in with entity id 54686 at ([world] -214.19139577653021, 62.35952910050754, 89.71739854144532)
+2022-07-28 14:32:22 [WARNING] ll moved wrongly!
+2022-07-28 14:33:07 [INFO] shun issued server command: /tp LL
+2022-07-28 14:33:07 [INFO] shun: Teleported shun to ll[m
+2022-07-28 14:34:42 [INFO] shun issued server command: /tp LL
+2022-07-28 14:34:42 [INFO] shun: Teleported shun to ll[m
+2022-07-28 14:35:48 [INFO] ll issued server command: /tp 190 53 250
+2022-07-28 14:35:48 [INFO] ll: Teleported ll to 190.50, 53.50, 250.50[m
+2022-07-28 14:35:51 [INFO] shun issued server command: /tp LL
+2022-07-28 14:35:51 [INFO] shun: Teleported shun to ll[m
+2022-07-28 14:36:54 [INFO] ll issued server command: /tp -193 87 64
+2022-07-28 14:36:54 [INFO] ll: Teleported ll to -192.50, 87.50, 64.50[m
+2022-07-28 14:36:56 [INFO] shun issued server command: /tp LL
+2022-07-28 14:36:56 [INFO] shun: Teleported shun to ll[m
+2022-07-28 14:40:14 [INFO] shun issued server command: /tp LL
+2022-07-28 14:40:14 [INFO] shun: Teleported shun to ll[m
+2022-07-28 14:40:25 [INFO] Connection reset
+2022-07-28 14:40:25 [INFO] ll lost connection: disconnect.quitting
+2022-07-28 14:40:25 [INFO] ¡ìell left the game.
+2022-07-28 14:40:27 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-28 14:40:30 [INFO] ll[/192.168.101.26:54446] logged in with entity id 60296 at ([world] -363.23561029295064, 64.0, 60.598798980004986)
+2022-07-28 14:41:16 [INFO] shun issued server command: /tp LL
+2022-07-28 14:41:16 [INFO] shun: Teleported shun to ll[m
+2022-07-28 14:41:48 [INFO] shun issued server command: /tp LL
+2022-07-28 14:41:48 [INFO] shun: Teleported shun to ll[m
+2022-07-28 14:42:00 [INFO] <shun> ÁéÖ¥£¡[m
+2022-07-28 14:42:38 [INFO] <ll> ÍÚ[m
+2022-07-28 14:42:57 [INFO] <ll> wa,ÎÒ»ØÌË¼Ò£¬ÂíÉÏ»ØÀ´[m
+2022-07-28 14:43:06 [INFO] <shun> ok[m
+2022-07-28 14:43:34 [INFO] ll issued server command: /tp 199 63 250
+2022-07-28 14:43:34 [INFO] ll: Teleported ll to 199.50, 63.50, 250.50[m
+2022-07-28 14:44:17 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-28 14:44:17 [INFO] ll lost connection: disconnect.endOfStream
+2022-07-28 14:44:17 [INFO] ¡ìell left the game.
+2022-07-28 14:44:31 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-28 14:44:34 [INFO] ll[/192.168.101.26:54450] logged in with entity id 62797 at ([world] 199.5, 62.12799997329708, 250.5)
+2022-07-28 14:44:49 [INFO] Connection reset
+2022-07-28 14:44:49 [INFO] ll lost connection: disconnect.quitting
+2022-07-28 14:44:49 [INFO] ¡ìell left the game.
+2022-07-28 14:45:06 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-28 14:45:08 [INFO] ll[/192.168.101.26:54454] logged in with entity id 63376 at ([world] 192.8969925441545, 63.0, 255.09976354686358)
+2022-07-28 14:48:00 [INFO] shun issued server command: /tp LL
+2022-07-28 14:48:00 [INFO] shun: Teleported shun to ll[m
+2022-07-28 14:48:21 [INFO] ll issued server command: /tp -668 70 84
+2022-07-28 14:48:21 [INFO] ll: Teleported ll to -667.50, 70.50, 84.50[m
+2022-07-28 14:48:52 [INFO] shun issued server command: /tp LL
+2022-07-28 14:48:52 [INFO] shun: Teleported shun to ll[m
+2022-07-28 14:50:59 [INFO] shun issued server command: /tp LL
+2022-07-28 14:50:59 [INFO] shun: Teleported shun to ll[m
+2022-07-28 14:52:08 [INFO] ll issued server command: /tp 200 63 250
+2022-07-28 14:52:08 [INFO] ll: Teleported ll to 200.50, 63.50, 250.50[m
+2022-07-28 14:55:31 [INFO] ll issued server command: /tp shun
+2022-07-28 14:55:31 [INFO] ll: Teleported ll to shun[m
+2022-07-28 14:56:38 [INFO] ll issued server command: /tp 198 63 255
+2022-07-28 14:56:38 [INFO] ll: Teleported ll to 198.50, 63.50, 255.50[m
+2022-07-28 14:56:45 [INFO] <shun> °°[m
+2022-07-28 14:58:01 [INFO] ll issued server command: /tp shun
+2022-07-28 14:58:01 [INFO] ll: Teleported ll to shun[m
+2022-07-28 14:59:47 [INFO] shun issued server command: /tp LL
+2022-07-28 14:59:47 [INFO] shun: Teleported shun to ll[m
+2022-07-28 15:00:14 [INFO] ll was slain by Spider
+2022-07-28 15:00:23 [INFO] ll issued server command: /tp shun
+2022-07-28 15:00:23 [INFO] ll: Teleported ll to shun[m
+2022-07-28 15:02:16 [INFO] ll was slain by Zombie
+2022-07-28 15:02:20 [INFO] shun was slain by Zombie
+2022-07-28 15:02:24 [INFO] ll issued server command: /tp shun
+2022-07-28 15:02:24 [INFO] ll: Teleported ll to shun[m
+2022-07-28 15:02:43 [INFO] shun issued server command: /tp LL
+2022-07-28 15:02:43 [INFO] shun: Teleported shun to ll[m
+2022-07-28 15:03:13 [INFO] ll was shot by Skeleton
+2022-07-28 15:03:20 [INFO] ll issued server command: /tp shun
+2022-07-28 15:03:20 [INFO] ll: Teleported ll to shun[m
+2022-07-28 15:03:37 [INFO] shun was shot by Skeleton
+2022-07-28 15:03:38 [INFO] Connection reset
+2022-07-28 15:03:38 [INFO] ll lost connection: disconnect.quitting
+2022-07-28 15:03:38 [INFO] ¡ìell left the game.
+2022-07-28 15:03:40 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-28 15:03:42 [INFO] ll[/192.168.101.26:54458] logged in with entity id 70735 at ([world] -751.9664265933482, 73.93755505172133, -112.42938293003562)
+2022-07-28 15:04:47 [INFO] ll issued server command: /tp shun
+2022-07-28 15:04:47 [INFO] ll: Teleported ll to shun[m
+2022-07-28 15:04:52 [INFO] shun issued server command: /tp LL
+2022-07-28 15:04:52 [INFO] shun: Teleported shun to ll[m
+2022-07-28 15:07:48 [INFO] shun was slain by Zombie
+2022-07-28 15:07:50 [INFO] ll was slain by Zombie
+2022-07-28 15:07:50 [INFO] shun issued server command: /tp LL
+2022-07-28 15:07:50 [INFO] shun: Teleported shun to ll[m
+2022-07-28 15:07:54 [INFO] shun was slain by Zombie
+2022-07-28 15:07:57 [INFO] ll issued server command: /tp shun
+2022-07-28 15:07:57 [INFO] ll: Teleported ll to shun[m
+2022-07-28 15:08:01 [INFO] shun issued server command: /tp LL
+2022-07-28 15:08:01 [INFO] shun: Teleported shun to ll[m
+2022-07-28 15:12:43 [INFO] ll issued server command: /tp 198 63 255
+2022-07-28 15:12:43 [INFO] ll: Teleported ll to 198.50, 63.50, 255.50[m
+2022-07-28 15:15:22 [INFO] ll lost connection: disconnect.quitting
+2022-07-28 15:15:22 [INFO] Connection reset
+2022-07-28 15:15:22 [INFO] removing player mount
+2022-07-28 15:15:22 [INFO] ¡ìell left the game.
+2022-07-28 15:24:19 [INFO] shun was slain by Spider
+2022-07-28 15:32:23 [INFO] CONSOLE: Stopping the server..[m
+2022-07-28 15:32:23 [INFO] Stopping server
+2022-07-28 15:32:23 [INFO] Saving players
+2022-07-28 15:32:23 [WARNING] DSCT: socket closed
+2022-07-28 15:32:23 [INFO] Closing listening thread
+2022-07-28 15:32:23 [INFO] ¡ìeshun left the game.
+2022-07-28 15:32:23 [INFO] Saving worlds
+2022-07-28 15:32:23 [INFO] Saving chunks for level 'world'/Overworld
+2022-07-28 15:32:23 [SEVERE] Reached end of stream for /172.29.144.1
+2022-07-28 15:32:23 [INFO] Saving chunks for level 'DIM-1'/Nether
+2022-07-28 15:32:23 [INFO] Stopping server
+2022-07-28 15:34:47 [INFO] Starting minecraft server version 1.6.2
+2022-07-28 15:34:47 [INFO] MinecraftForge v
+2022-07-28 15:34:47 [INFO] 9.10.0.804
+2022-07-28 15:34:47 [INFO]  Initialized
+
+2022-07-28 15:34:47 [INFO] Replaced 101 ore recipies
+2022-07-28 15:34:49 [INFO] Loading properties
+2022-07-28 15:34:49 [INFO] Default game type: SURVIVAL
+2022-07-28 15:34:49 [INFO] Generating keypair
+2022-07-28 15:34:49 [INFO] Starting Minecraft server on *:25565
+2022-07-28 15:34:50 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-36 (MC: 1.6.2) (Implementing API version 1.6.2-R0.1-SNAPSHOT)
+2022-07-28 15:34:50 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-07-28 15:34:50 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-07-28 15:34:50 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-07-28 15:34:50 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-07-28 15:34:50 [INFO] Preparing level "world"
+2022-07-28 15:34:50 [INFO] Registered command debug with permission node vanilla.command.debug
+2022-07-28 15:34:50 [INFO] Registered command spreadplayers with permission node vanilla.command.spreadplayers
+2022-07-28 15:34:50 [INFO] Registered command playsound with permission node vanilla.command.playsound
+2022-07-28 15:34:50 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2022-07-28 15:34:50 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 5958978434922792270)
+2022-07-28 15:34:51 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 4197503131016627863)
+2022-07-28 15:34:51 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 5958978434922792270)
+2022-07-28 15:34:52 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-07-28 15:34:52 [INFO] Done (1.637s)! For help, type "help" or "?"
+2022-07-28 15:35:10 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-28 15:35:10 [INFO] /192.168.101.26:54460 lost connection
+2022-07-28 15:35:22 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-28 15:35:26 [INFO] ll[/192.168.101.26:54474] logged in with entity id 191 at ([world] -758.3000000119209, 73.7000000178814, -127.417081980369)
+2022-07-28 15:41:30 [INFO] ll issued server command: /tp 198 66 255
+2022-07-28 15:41:30 [INFO] ll: Teleported ll to 198.50, 66.50, 255.50[m
+2022-07-28 15:42:32 [INFO] ll issued server command: /tp 766 123 66
+2022-07-28 15:42:32 [INFO] ll: Teleported ll to 766.50, 123.50, 66.50[m
+2022-07-28 15:43:01 [SEVERE] Reached end of stream for /172.29.144.1
+2022-07-28 15:43:02 [INFO] ll issued server command: /tp 723 163 66
+2022-07-28 15:43:02 [INFO] ll: Teleported ll to 723.50, 163.50, 66.50[m
+2022-07-28 15:43:03 [INFO] shun[/172.29.144.1:54411] logged in with entity id 2621 at ([world] -754.3000000119209, 73.0, -111.69999998807907)
+2022-07-28 15:43:13 [WARNING] ll moved too quickly! 0.0,13.25116416286889,0.0 (0.0, 13.25116416286889, 0.0)
+2022-07-28 15:43:21 [WARNING] ll moved too quickly! 0.0,68.26496970143626,0.0 (0.0, 68.26496970143626, 0.0)
+2022-07-28 15:43:24 [INFO] ll lost connection: disconnect.quitting
+2022-07-28 15:43:24 [INFO] Connection reset
+2022-07-28 15:43:24 [INFO] ¡ìell left the game.
+2022-07-28 15:43:35 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-28 15:43:38 [INFO] ll[/192.168.101.26:54478] logged in with entity id 3869 at ([world] 723.5, 81.98386613569485, 66.5)
+2022-07-28 15:43:54 [INFO] ll issued server command: /tp shun
+2022-07-28 15:43:54 [INFO] ll: Teleported ll to shun[m
+2022-07-28 15:43:57 [INFO] shun issued server command: /tp LL
+2022-07-28 15:43:57 [INFO] shun: Teleported shun to ll[m
+2022-07-28 15:44:26 [INFO] <shun> ¶«Î÷¼ñ»ØÀ´ÁËÂð[m
+2022-07-28 15:47:00 [INFO] shun issued server command: /tp LL
+2022-07-28 15:47:00 [INFO] shun: Teleported shun to ll[m
+2022-07-28 15:47:09 [INFO] <shun> Âí[m
+2022-07-28 15:47:14 [INFO] <shun> ³ÔÉ¶[m
+2022-07-28 15:50:20 [INFO] <shun> Ô½ºÃµÄÂíÌøµÄÔ½¸ß[m
+2022-07-28 15:50:50 [INFO] <shun> ×ß[m
+2022-07-28 15:50:57 [INFO] <shun> ¸úÎÒ×ß[m
+2022-07-28 15:51:51 [INFO] shun suffocated in a wall
+2022-07-28 15:52:48 [INFO] shun issued server command: /back
+2022-07-28 15:53:03 [INFO] shun issued server command: /-628 68 -87
+2022-07-28 15:53:10 [INFO] shun issued server command: /tp -628 68 -87
+2022-07-28 15:53:10 [INFO] shun: Teleported shun to -627.50, 68.50, -86.50[m
+2022-07-28 15:53:35 [INFO] shun issued server command: /tp LL
+2022-07-28 15:53:35 [INFO] shun: Teleported shun to ll[m
+2022-07-28 15:55:18 [INFO] <shun> Õ¦Õû[m
+2022-07-28 15:55:23 [INFO] <shun> ÂíÒªËÀÁË[m
+2022-07-28 15:55:29 [INFO] <shun> ÓÐ¶¾[m
+2022-07-28 15:56:52 [INFO] ll issued server command: /tp 198 63 255
+2022-07-28 15:56:52 [INFO] ll: Teleported ll to 198.50, 63.50, 255.50[m
+2022-07-28 15:56:55 [INFO] shun issued server command: /tp LL
+2022-07-28 15:56:55 [INFO] shun: Teleported shun to ll[m
+2022-07-28 15:57:55 [INFO] ll issued server command: /tp 536 52 73
+2022-07-28 15:57:55 [INFO] ll: Teleported ll to 536.50, 52.50, 73.50[m
+2022-07-28 15:58:06 [INFO] ll suffocated in a wall
+2022-07-28 15:59:11 [INFO] ll issued server command: /tp 536 52 73
+2022-07-28 15:59:11 [INFO] ll: Teleported ll to 536.50, 52.50, 73.50[m
+2022-07-28 15:59:14 [INFO] shun issued server command: /tp LL
+2022-07-28 15:59:14 [INFO] shun: Teleported shun to ll[m
+2022-07-28 15:59:22 [INFO] ll suffocated in a wall
+2022-07-28 15:59:25 [INFO] shun suffocated in a wall
+2022-07-28 15:59:38 [INFO] ll issued server command: /tp 536 60 73
+2022-07-28 15:59:39 [INFO] ll: Teleported ll to 536.50, 60.50, 73.50[m
+2022-07-28 15:59:49 [INFO] ll suffocated in a wall
+2022-07-28 15:59:50 [INFO] ll issued server command: /tp 566 70 73
+2022-07-28 15:59:50 [INFO] ll: Teleported ll to 566.50, 70.50, 73.50[m
+2022-07-28 15:59:56 [INFO] shun issued server command: /tp 566 80 73
+2022-07-28 15:59:56 [INFO] shun: Teleported shun to 566.50, 80.50, 73.50[m
+2022-07-28 16:00:09 [INFO] shun issued server command: /tp 536 80 73
+2022-07-28 16:00:09 [INFO] shun: Teleported shun to 536.50, 80.50, 73.50[m
+2022-07-28 16:00:27 [INFO] ll issued server command: /tp 536 51 73
+2022-07-28 16:00:27 [INFO] ll: Teleported ll to 536.50, 51.50, 73.50[m
+2022-07-28 16:00:37 [INFO] ll suffocated in a wall
+2022-07-28 16:00:38 [INFO] ll issued server command: /tp shun
+2022-07-28 16:00:38 [INFO] ll: Teleported ll to shun[m
+2022-07-28 16:00:44 [INFO] ll issued server command: /tp shun
+2022-07-28 16:00:44 [INFO] ll: Teleported ll to shun[m
+2022-07-28 16:01:17 [INFO] shun issued server command: /tp ll
+2022-07-28 16:01:17 [INFO] shun: Teleported shun to ll[m
+2022-07-28 16:01:29 [INFO] <shun> ¸Õ²ÅÈ¡¹ØÁËÒ»ÏÂ´Ó´°»§[m
+2022-07-28 16:01:32 [INFO] ll issued server command: /tp -536 -52 73
+2022-07-28 16:01:32 [INFO] ll: Teleported ll to -535.50, -51.50, 73.50[m
+2022-07-28 16:01:36 [INFO] ll fell out of the world
+2022-07-28 16:01:59 [INFO] ll issued server command: /tp -536 73 -52
+2022-07-28 16:01:59 [INFO] ll: Teleported ll to -535.50, 73.50, -51.50[m
+2022-07-28 16:02:19 [INFO] shun issued server command: /tp ll
+2022-07-28 16:02:19 [INFO] shun: Teleported shun to ll[m
+2022-07-28 16:02:53 [INFO] <shun> ÎÒµÄÂðÄØ[m
+2022-07-28 16:03:25 [INFO] <shun> ÎÒµÄÂðÄØ[m
+2022-07-28 16:03:27 [INFO] shun issued server command: /tp ll
+2022-07-28 16:03:27 [INFO] shun: Teleported shun to ll[m
+2022-07-28 16:08:49 [INFO] shun issued server command: /tp ll
+2022-07-28 16:08:49 [INFO] shun: Teleported shun to ll[m
+2022-07-28 16:12:40 [INFO] shun issued server command: /tp ll
+2022-07-28 16:12:40 [INFO] shun: Teleported shun to ll[m
+2022-07-28 16:12:52 [INFO] ll issued server command: /tp 198 63 250
+2022-07-28 16:12:52 [INFO] ll: Teleported ll to 198.50, 63.50, 250.50[m
+2022-07-28 16:13:01 [INFO] shun issued server command: /tp ll
+2022-07-28 16:13:01 [INFO] shun: Teleported shun to ll[m
+2022-07-28 16:13:18 [INFO] <shun> ²»¶Ô°¡[m
+2022-07-28 16:13:24 [INFO] <shun> Õâ¸ö²»ÊÇÓñÃ×ÖÖ×Ó[m
+2022-07-28 16:14:56 [INFO] ll issued server command: /tp -309 64 84
+2022-07-28 16:14:56 [INFO] ll: Teleported ll to -308.50, 64.50, 84.50[m
+2022-07-28 16:14:58 [INFO] <shun> Õâ¸ö²»ÊÇÓñÃ×ÖÖ×Ó[m
+2022-07-28 16:15:00 [INFO] shun issued server command: /tp ll
+2022-07-28 16:15:00 [INFO] shun: Teleported shun to ll[m
+2022-07-28 16:22:08 [INFO] shun issued server command: /tp ll
+2022-07-28 16:22:08 [INFO] shun: Teleported shun to ll[m
+2022-07-28 16:26:10 [WARNING] ll moved wrongly!
+2022-07-28 16:26:29 [INFO] shun issued server command: /tp ll
+2022-07-28 16:26:29 [INFO] shun: Teleported shun to ll[m
+2022-07-28 16:26:33 [WARNING] shun moved wrongly!
+2022-07-28 16:26:37 [WARNING] shun moved wrongly!
+2022-07-28 16:33:19 [INFO] ll was blown up by Creeper
+2022-07-28 16:33:28 [INFO] ll issued server command: /tp shun
+2022-07-28 16:33:28 [INFO] ll: Teleported ll to shun[m
+2022-07-28 16:34:44 [INFO] <shun> µ½¼ÒÁË[m
+2022-07-28 16:35:10 [INFO] shun issued server command: /tp ll
+2022-07-28 16:35:10 [INFO] shun: Teleported shun to ll[m
+2022-07-28 16:50:46 [INFO] shun issued server command: /tp ll
+2022-07-28 16:50:46 [INFO] shun: Teleported shun to ll[m
+2022-07-28 16:54:32 [INFO] ll issued server command: /tp shun
+2022-07-28 16:54:32 [INFO] ll: Teleported ll to shun[m
+2022-07-28 16:55:13 [INFO] <shun> Ê÷¶¼±»ÎÒÂ³ÍºÁË[m
+2022-07-28 16:55:19 [INFO] <shun> ²ÅÒ»¸öÆ»¹û[m
+2022-07-28 16:58:18 [INFO] ll issued server command: /tp 433 52 61
+2022-07-28 16:58:18 [INFO] ll: Teleported ll to 433.50, 52.50, 61.50[m
+2022-07-28 16:58:24 [INFO] ll issued server command: /tp shun
+2022-07-28 16:58:24 [INFO] ll: Teleported ll to shun[m
+2022-07-28 16:59:09 [INFO] <shun> 2[m
+2022-07-28 16:59:14 [INFO] <shun> ÖÕÓÚ[m
+2022-07-28 17:00:18 [INFO] <shun> ÖÕÓÚ[m
+2022-07-28 17:00:30 [INFO] ll issued server command: /tp 123 65 250
+2022-07-28 17:00:30 [INFO] ll: Teleported ll to 123.50, 65.50, 250.50[m
+2022-07-28 17:01:26 [INFO] shun issued server command: /tp ll
+2022-07-28 17:01:26 [INFO] shun: Teleported shun to ll[m
+2022-07-28 17:07:46 [INFO] shun issued server command: /tp ll
+2022-07-28 17:07:46 [INFO] shun: Teleported shun to ll[m
+2022-07-28 17:13:15 [INFO] ll issued server command: /tp shun
+2022-07-28 17:13:15 [INFO] ll: Teleported ll to shun[m
+2022-07-28 17:14:48 [INFO] ll issued server command: /tp -536 -52 73
+2022-07-28 17:14:48 [INFO] ll: Teleported ll to -535.50, -51.50, 73.50[m
+2022-07-28 17:14:51 [INFO] ll fell out of the world
+2022-07-28 17:15:15 [INFO] ll issued server command: /tp-536 -52 73
+2022-07-28 17:15:30 [INFO] ll issued server command: /tp -536 -52 73
+2022-07-28 17:15:30 [INFO] ll: Teleported ll to -535.50, -51.50, 73.50[m
+2022-07-28 17:15:33 [INFO] ll fell out of the world
+2022-07-28 17:15:57 [INFO] shun issued server command: /tp -535 73 -51
+2022-07-28 17:15:57 [INFO] shun: Teleported shun to -534.50, 73.50, -50.50[m
+2022-07-28 17:16:04 [INFO] ll issued server command: /tp shun
+2022-07-28 17:16:04 [INFO] ll: Teleported ll to shun[m
+2022-07-28 17:17:35 [INFO] shun issued server command: /tp -751 74 -97
+2022-07-28 17:17:35 [INFO] shun: Teleported shun to -750.50, 74.50, -96.50[m
+2022-07-28 17:17:38 [INFO] ll issued server command: /tp shun
+2022-07-28 17:17:38 [INFO] ll: Teleported ll to shun[m
+2022-07-28 17:19:28 [INFO] shun issued server command: /tp ll
+2022-07-28 17:19:28 [INFO] shun: Teleported shun to ll[m
+2022-07-28 17:20:49 [INFO] ll issued server command: /tp 126 65 255
+2022-07-28 17:20:49 [INFO] ll: Teleported ll to 126.50, 65.50, 255.50[m
+2022-07-28 17:20:53 [INFO] shun issued server command: /tp ll
+2022-07-28 17:20:53 [INFO] shun: Teleported shun to ll[m
+2022-07-28 17:22:21 [INFO] shun issued server command: /tp -756 72 84
+2022-07-28 17:22:21 [INFO] shun: Teleported shun to -755.50, 72.50, 84.50[m
+2022-07-28 17:22:26 [INFO] ll issued server command: /tp shun
+2022-07-28 17:22:26 [INFO] ll: Teleported ll to shun[m
+2022-07-28 17:22:45 [INFO] shun issued server command: /tp ll
+2022-07-28 17:22:45 [INFO] shun: Teleported shun to ll[m
+2022-07-28 17:23:00 [INFO] shun issued server command: /tp ll
+2022-07-28 17:23:00 [INFO] shun: Teleported shun to ll[m
+2022-07-28 17:23:29 [INFO] shun issued server command: /tp ll
+2022-07-28 17:23:29 [INFO] shun: Teleported shun to ll[m
+2022-07-28 17:25:46 [INFO] shun issued server command: /tp ll
+2022-07-28 17:25:46 [INFO] shun: Teleported shun to ll[m
+2022-07-28 17:26:40 [INFO] ll issued server command: /tp shun
+2022-07-28 17:26:40 [INFO] ll: Teleported ll to shun[m
+2022-07-28 17:27:14 [INFO] shun fell from a high place
+2022-07-28 17:27:32 [INFO] ll issued server command: /tp shun
+2022-07-28 17:27:32 [INFO] ll: Teleported ll to shun[m
+2022-07-28 17:27:38 [INFO] shun issued server command: /tp ll
+2022-07-28 17:27:38 [INFO] shun: Teleported shun to ll[m
+2022-07-28 17:29:16 [INFO] shun issued server command: /tp ll
+2022-07-28 17:29:16 [INFO] shun: Teleported shun to ll[m
+2022-07-28 17:32:06 [INFO] Connection reset
+2022-07-28 17:32:06 [INFO] ll lost connection: disconnect.overflow
+2022-07-28 17:32:06 [INFO] ¡ìell left the game.
+2022-07-28 17:32:08 [INFO] shun issued server command: /tp ll
+2022-07-28 17:32:17 [INFO] shun issued server command: /tp ll
+2022-07-28 17:32:19 [INFO] shun issued server command: /tp ll0
+2022-07-28 17:32:29 [INFO] shun issued server command: /tp ll
+2022-07-28 17:32:45 [SEVERE] Reached end of stream for /192.168.101.26
+2022-07-28 17:32:48 [INFO] ll[/192.168.101.26:54482] logged in with entity id 44647 at ([world] -1005.092592903221, 64.0, 418.06627011428844)
+2022-07-28 17:32:56 [INFO] shun issued server command: /tp ll
+2022-07-28 17:32:56 [INFO] shun: Teleported shun to ll[m
+2022-07-28 17:34:55 [INFO] shun issued server command: /tp ll
+2022-07-28 17:34:55 [INFO] shun: Teleported shun to ll[m
+2022-07-28 17:35:35 [INFO] ll issued server command: /tp shun
+2022-07-28 17:35:35 [INFO] ll: Teleported ll to shun[m
+2022-07-28 17:35:42 [INFO] shun was slain by Cave Spider
+2022-07-28 17:35:56 [INFO] shun issued server command: /tp ll
+2022-07-28 17:35:56 [INFO] shun: Teleported shun to ll[m
+2022-07-28 17:36:12 [INFO] ll was slain by Cave Spider
+2022-07-28 17:36:19 [INFO] shun was slain by Cave Spider
+2022-07-28 17:36:29 [INFO] ll issued server command: /tp shun
+2022-07-28 17:36:29 [INFO] ll: Teleported ll to shun[m
+2022-07-28 17:37:31 [INFO] shun issued server command: /tp ll
+2022-07-28 17:37:31 [INFO] shun: Teleported shun to ll[m
+2022-07-28 17:38:25 [INFO] ll was slain by Cave Spider
+2022-07-28 17:38:30 [INFO] ll issued server command: /tp shun
+2022-07-28 17:38:30 [INFO] ll: Teleported ll to shun[m
+2022-07-28 17:38:59 [INFO] shun was slain by Cave Spider
+2022-07-28 17:39:03 [INFO] shun issued server command: /tp ll
+2022-07-28 17:39:03 [INFO] shun: Teleported shun to ll[m
+2022-07-28 17:40:08 [INFO] ll issued server command: /tp shun
+2022-07-28 17:40:08 [INFO] ll: Teleported ll to shun[m
+2022-07-28 17:41:58 [INFO] ll issued server command: /tp shun
+2022-07-28 17:41:58 [INFO] ll: Teleported ll to shun[m
+2022-07-28 17:43:11 [INFO] ll issued server command: /tp shun
+2022-07-28 17:43:11 [INFO] ll: Teleported ll to shun[m
+2022-07-28 17:44:04 [INFO] shun issued server command: /tp ll
+2022-07-28 17:44:04 [INFO] shun: Teleported shun to ll[m
+2022-07-28 17:45:10 [INFO] shun issued server command: /tp 126 65 255
+2022-07-28 17:45:10 [INFO] shun: Teleported shun to 126.50, 65.50, 255.50[m
+2022-07-28 17:46:03 [INFO] shun issued server command: /tp ll
+2022-07-28 17:46:03 [INFO] shun: Teleported shun to ll[m
+2022-07-28 17:49:01 [INFO] shun issued server command: /tp 126 65 255
+2022-07-28 17:49:01 [INFO] shun: Teleported shun to 126.50, 65.50, 255.50[m
+2022-07-28 17:49:21 [INFO] shun issued server command: /tp ll
+2022-07-28 17:49:21 [INFO] shun: Teleported shun to ll[m
+2022-07-28 17:53:09 [INFO] shun was slain by Cave Spider
+2022-07-28 17:53:39 [INFO] shun issued server command: /tp ll
+2022-07-28 17:53:39 [INFO] shun: Teleported shun to ll[m
+2022-07-28 17:53:56 [INFO] shun issued server command: /tp 126 65 255
+2022-07-28 17:53:56 [INFO] shun: Teleported shun to 126.50, 65.50, 255.50[m
+2022-07-28 17:54:11 [INFO] shun issued server command: /tp ll
+2022-07-28 17:54:11 [INFO] shun: Teleported shun to ll[m
+2022-07-28 17:54:24 [INFO] shun issued server command: /tp 126 65 255
+2022-07-28 17:54:24 [INFO] shun: Teleported shun to 126.50, 65.50, 255.50[m
+2022-07-28 17:54:42 [INFO] shun issued server command: /tp ll
+2022-07-28 17:54:42 [INFO] shun: Teleported shun to ll[m
+2022-07-28 17:55:01 [INFO] shun tried to swim in lava
+2022-07-28 17:55:01 [INFO] shun issued server command: /tp 126 65 255
+2022-07-28 17:55:01 [INFO] shun: Teleported shun to 126.50, 65.50, 255.50[m
+2022-07-28 17:55:35 [INFO] shun issued server command: /tp -1049 16 206
+2022-07-28 17:55:35 [INFO] shun: Teleported shun to -1048.50, 16.50, 206.50[m
+2022-07-28 17:55:46 [INFO] shun suffocated in a wall
+2022-07-28 17:55:53 [INFO] ll issued server command: /tp 126 65 226
+2022-07-28 17:55:53 [INFO] ll: Teleported ll to 126.50, 65.50, 226.50[m
+2022-07-28 17:55:57 [INFO] shun issued server command: /tp -1049 16 286
+2022-07-28 17:55:57 [INFO] shun: Teleported shun to -1048.50, 16.50, 286.50[m
+2022-07-28 17:58:21 [INFO] ll issued server command: /tp shun
+2022-07-28 17:58:21 [INFO] ll: Teleported ll to shun[m
+2022-07-28 17:58:35 [INFO] <shun> ¸úÎÒ×ß[m
+2022-07-28 17:58:42 [INFO] <shun> »ð°Ñ·âÓ¡[m
+2022-07-28 17:58:57 [INFO] shun was slain by Cave Spider
+2022-07-28 17:59:09 [INFO] shun issued server command: /tp ll
+2022-07-28 17:59:09 [INFO] shun: Teleported shun to ll[m
+2022-07-28 18:00:18 [INFO] <shun> ·âÓ¡[m
+2022-07-28 18:00:53 [INFO] ll was slain by Cave Spider
+2022-07-28 18:01:01 [INFO] ll issued server command: /tp shun
+2022-07-28 18:01:01 [INFO] ll: Teleported ll to shun[m
+2022-07-28 18:04:53 [INFO] ll issued server command: /tp shun
+2022-07-28 18:04:53 [INFO] ll: Teleported ll to shun[m
+2022-07-28 18:05:02 [INFO] shun issued server command: /tp 126 65 255
+2022-07-28 18:05:02 [INFO] shun: Teleported shun to 126.50, 65.50, 255.50[m
+2022-07-28 18:05:02 [INFO] shun suffocated in a wall
+2022-07-28 18:05:15 [INFO] shun issued server command: /tp ll
+2022-07-28 18:05:15 [INFO] shun: Teleported shun to ll[m
+2022-07-28 18:05:27 [INFO] shun issued server command: /tp 126 65 255
+2022-07-28 18:05:27 [INFO] shun: Teleported shun to 126.50, 65.50, 255.50[m
+2022-07-28 18:05:38 [INFO] shun issued server command: /tp ll
+2022-07-28 18:05:38 [INFO] shun: Teleported shun to ll[m
+2022-07-28 18:09:24 [INFO] ll issued server command: /tp 126 63 255
+2022-07-28 18:09:24 [INFO] ll: Teleported ll to 126.50, 63.50, 255.50[m
+2022-07-28 18:11:08 [INFO] ll issued server command: /tp shun
+2022-07-28 18:11:08 [INFO] ll: Teleported ll to shun[m
+2022-07-28 18:11:30 [INFO] ll issued server command: /tp shun
+2022-07-28 18:11:30 [INFO] ll: Teleported ll to shun[m
+2022-07-28 18:13:10 [INFO] ll issued server command: /tp shun
+2022-07-28 18:13:10 [INFO] ll: Teleported ll to shun[m
+2022-07-28 18:15:38 [INFO] ll lost connection: disconnect.quitting
+2022-07-28 18:15:38 [INFO] Connection reset
+2022-07-28 18:15:38 [INFO] ¡ìell left the game.
+2022-07-28 20:20:25 [INFO] Connection reset
+2022-07-28 20:20:25 [INFO] shun lost connection: disconnect.quitting
+2022-07-28 20:20:25 [INFO] ¡ìeshun left the game.
+2022-07-28 20:20:34 [INFO] CONSOLE: Stopping the server..[m
+2022-07-28 20:20:34 [INFO] Stopping server
+2022-07-28 20:20:34 [INFO] Saving players
+2022-07-28 20:20:34 [INFO] Saving worlds
+2022-07-28 20:20:34 [WARNING] DSCT: socket closed
+2022-07-28 20:20:34 [INFO] Saving chunks for level 'world'/Overworld
+2022-07-28 20:20:34 [INFO] Closing listening thread
+2022-07-28 20:20:34 [INFO] Saving chunks for level 'DIM-1'/Nether
+2022-07-28 20:20:34 [INFO] Stopping server
+2022-07-28 20:20:34 [INFO] Saving players
