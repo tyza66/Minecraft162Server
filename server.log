@@ -1745,3 +1745,55 @@ Caused by: java.lang.RuntimeException: Attempted to load class ats for invalid s
 2022-07-28 09:39:26 [INFO] Saving worlds
 2022-07-28 09:39:26 [INFO] Saving chunks for level 'world'/Overworld
 2022-07-28 09:39:26 [INFO] Saving chunks for level 'DIM-1'/Nether
+2022-07-28 09:41:39 [INFO] Starting minecraft server version 1.6.2
+2022-07-28 09:41:39 [INFO] MinecraftForge v
+2022-07-28 09:41:39 [INFO] 9.10.0.804
+2022-07-28 09:41:39 [INFO]  Initialized
+
+2022-07-28 09:41:39 [INFO] Replaced 101 ore recipies
+2022-07-28 09:41:40 [INFO] Loading properties
+2022-07-28 09:41:40 [INFO] Default game type: SURVIVAL
+2022-07-28 09:41:40 [INFO] Generating keypair
+2022-07-28 09:41:40 [INFO] Starting Minecraft server on *:25565
+2022-07-28 09:41:40 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-36 (MC: 1.6.2) (Implementing API version 1.6.2-R0.1-SNAPSHOT)
+2022-07-28 09:41:41 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-07-28 09:41:41 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-07-28 09:41:41 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-07-28 09:41:41 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-07-28 09:41:41 [INFO] Preparing level "world"
+2022-07-28 09:41:41 [INFO] Registered command debug with permission node vanilla.command.debug
+2022-07-28 09:41:41 [INFO] Registered command spreadplayers with permission node vanilla.command.spreadplayers
+2022-07-28 09:41:41 [INFO] Registered command playsound with permission node vanilla.command.playsound
+2022-07-28 09:41:41 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2022-07-28 09:41:41 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 5958978434922792270)
+2022-07-28 09:41:42 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 4197503131016627863)
+2022-07-28 09:41:42 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 5958978434922792270)
+2022-07-28 09:41:42 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-07-28 09:41:42 [INFO] Done (1.203s)! For help, type "help" or "?"
+2022-07-28 09:41:51 [SEVERE] Reached end of stream for /172.29.144.1
+2022-07-28 09:42:24 [INFO] Starting minecraft server version 1.6.2
+2022-07-28 09:42:24 [INFO] MinecraftForge v
+2022-07-28 09:42:24 [INFO] 9.10.0.804
+2022-07-28 09:42:24 [INFO]  Initialized
+
+2022-07-28 09:42:24 [INFO] Replaced 101 ore recipies
+2022-07-28 09:42:25 [INFO] Loading properties
+2022-07-28 09:42:25 [INFO] Default game type: SURVIVAL
+2022-07-28 09:42:25 [INFO] Generating keypair
+2022-07-28 09:42:25 [INFO] Starting Minecraft server on *:25565
+2022-07-28 09:42:25 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-36 (MC: 1.6.2) (Implementing API version 1.6.2-R0.1-SNAPSHOT)
+2022-07-28 09:42:25 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-07-28 09:42:25 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-07-28 09:42:25 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-07-28 09:42:25 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-07-28 09:42:25 [INFO] Preparing level "world"
+2022-07-28 09:42:25 [INFO] Registered command debug with permission node vanilla.command.debug
+2022-07-28 09:42:25 [INFO] Registered command spreadplayers with permission node vanilla.command.spreadplayers
+2022-07-28 09:42:25 [INFO] Registered command playsound with permission node vanilla.command.playsound
+2022-07-28 09:42:25 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2022-07-28 09:42:26 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 5958978434922792270)
+2022-07-28 09:42:26 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 4197503131016627863)
+2022-07-28 09:42:26 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 5958978434922792270)
+2022-07-28 09:42:26 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-07-28 09:42:26 [INFO] Done (1.009s)! For help, type "help" or "?"
+2022-07-28 09:42:41 [SEVERE] Reached end of stream for /172.29.144.1
