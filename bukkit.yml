@@ -105,6 +105,8 @@ world-settings:
     keeploaded-environment-normal: true
     keeploaded-environment-nether: true
     keeploaded-environment-the_end: false
+    worldgen-plantmegapack-PMPWorldGenerator: true
+    worldgen-modTimber-ModLoaderWorldGenerator: true
   world:
     growth-chunks-per-tick: 1000
   world_nether:

@@ -1,0 +1,90 @@
+---- Minecraft Crash Report ----
+// Quite honestly, I wouldn't worry myself about that.
+
+Time: 22-7-28 上午8:22
+Description: Exception in server tick loop
+
+java.lang.NoClassDefFoundError: net/minecraft/client/Minecraft
+	at DamageIndicatorsMod.core.Tools.<init>(Tools.java:40)
+	at DamageIndicatorsMod.DIMod.<clinit>(DIMod.java:23)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:457)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:194)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:174)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:105)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:510)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:86)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:596)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.Minecraft
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:179)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 32 more
+Caused by: java.lang.RuntimeException: Attempted to load class ats for invalid side SERVER
+	at cpw.mods.fml.common.asm.transformers.SideTransformer.transform(SideTransformer.java:50)
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:267)
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:165)
+	... 34 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.6.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_65, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 869876992 bytes (829 MB) / 1029177344 bytes (981 MB) up to 1029177344 bytes (981 MB)
+	JVM Flags: 2 total; -Xmx1024M -Xms1024M
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Suspicious classes: FML and Forge are installed
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	CraftBukkit Information: 
+   Running: 
+   Failed to handle CraftCrashReport:
+java.lang.NullPointerException
+	at org.bukkit.Bukkit.getName(Bukkit.java:72)
+	at org.bukkit.craftbukkit.v1_6_R2.CraftCrashReport.call(CraftCrashReport.java:19)
+	at net.minecraft.crash.CrashReportCategory.func_71500_a(CrashReportCategory.java:106)
+	at net.minecraft.crash.CrashReport.func_71504_g(CrashReport.java:58)
+	at net.minecraft.crash.CrashReport.<init>(CrashReport.java:40)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:655)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+
+	FML: MCP v8.04 FML v6.2.35.804 Minecraft Forge 9.10.0.804 9 mods loaded, 9 mods active
+	mcp{8.04} [Minecraft Coder Pack] (minecraft.jar) Unloaded->Constructed
+	FML{6.2.35.804} [Forge Mod Loader] (coremods) Unloaded->Constructed
+	Forge{9.10.0.804} [Minecraft Forge] (coremods) Unloaded->Constructed
+	InputFix{1.6.x-v5} [InputFix] (coremods) Unloaded->Constructed
+	inventorytweaks{1.56} [Inventory Tweaks] (R键整理.jar) Unloaded->Constructed
+	jammyfurniture{4.5} [Jammy Furniture Mod] (家具.zip) Unloaded->Constructed
+	plantmegapack{3.00.09} [Plant Mega Pack] (更多植物.zip) Unloaded->Constructed
+	mod_Timber{1.6.2} [Timber!] (砍树MOD.zip) Unloaded->Constructed
+	DamageIndicatorsMod{2.8.7.0} [Damage Indicators] (血量显示MOD[1.6.2].zip) Unloaded
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'mcpc,craftbukkit,fml,forge'
+	Type: Dedicated Server (map_server.txt)
