@@ -1276,3 +1276,214 @@
 2022-10-28 15:38:22 [CLIENT] [INFO] [CHAT] [FastLogin]注册完成！
 2022-10-28 15:38:46 [CLIENT] [SEVERE] Reached end of stream for /127.0.0.1
 2022-10-28 15:38:49 [CLIENT] [INFO] Stopping!
+2022-10-28 18:26:01 [CLIENT] [INFO] Setting user: shun
+2022-10-28 18:26:01 [CLIENT] [INFO] (Session ID is ${auth_session})
+2022-10-28 18:26:02 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2022-10-28 18:26:02 [CLIENT] [INFO] Reloading ResourceManager: Default
+2022-10-28 18:26:04 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:CraftGuide, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Jammy Furniture Mod, FMLFileResourcePack:Plant Mega Pack, FMLFileResourcePack:Damage Indicators
+2022-10-28 18:26:05 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:CraftGuide, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Jammy Furniture Mod, FMLFileResourcePack:Plant Mega Pack, FMLFileResourcePack:Damage Indicators
+2022-10-28 18:26:08 [CLIENT] [SEVERE] Realms: Server not available!
+2022-10-28 18:26:31 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:26:52 [CLIENT] [INFO] Connecting to 47.94.36.117：25565, 25565
+2022-10-28 18:27:07 [CLIENT] [INFO] Connecting to 47.94.36.117：25565, 25565
+2022-10-28 18:27:10 [CLIENT] [INFO] Connecting to 47.94.36.117：25565, 25565
+2022-10-28 18:27:11 [CLIENT] [INFO] Connecting to 47.94.36.117：25565, 25565
+2022-10-28 18:27:12 [CLIENT] [INFO] Connecting to 47.94.36.117：25565, 25565
+2022-10-28 18:27:13 [CLIENT] [INFO] Connecting to 47.94.36.117：25565, 25565
+2022-10-28 18:28:13 [CLIENT] [INFO] Connecting to 47.94.36.117：25565, 25565
+2022-10-28 18:28:33 [CLIENT] [INFO] Connecting to 47.94.36.117：25565, 25565
+2022-10-28 18:28:34 [CLIENT] [INFO] Connecting to 47.94.36.117：25565, 25565
+2022-10-28 18:28:36 [CLIENT] [INFO] Connecting to 47.94.36.117：25565, 25565
+2022-10-28 18:28:44 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:29:00 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 18:30:05 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:30:55 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:31:11 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 18:31:32 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:31:47 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 18:32:42 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:32:47 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 18:32:47 [CLIENT] [INFO] [CHAT] shun Joined the game.
+2022-10-28 18:32:52 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 18:32:53 [CLIENT] [INFO] [CHAT] Damage Indicators was unable to check for updates!
+2022-10-28 18:33:01 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:33:02 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 18:33:06 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:33:06 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 18:33:17 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:33:18 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 18:33:21 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:33:21 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 18:33:23 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:33:24 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 18:33:43 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:33:43 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 18:33:46 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:33:46 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 18:33:48 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:33:49 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 18:34:14 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:34:15 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 18:34:18 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:34:19 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 18:34:41 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:34:42 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 18:35:46 [CLIENT] [INFO] Connecting to 127.0.0.1, 25565
+2022-10-28 18:35:50 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:35:51 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 18:36:00 [CLIENT] [INFO] Connecting to 47.94.36.117：25565, 25565
+2022-10-28 18:36:02 [CLIENT] [INFO] Connecting to 47.94.36.117：25565, 25565
+2022-10-28 18:36:03 [CLIENT] [INFO] Connecting to 47.94.36.117：25565, 25565
+2022-10-28 18:36:04 [CLIENT] [INFO] Connecting to 47.94.36.117：25565, 25565
+2022-10-28 18:36:12 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:36:12 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 18:36:15 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:36:16 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 18:36:18 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:36:18 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 18:36:20 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:36:21 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 18:36:23 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:36:24 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 18:36:26 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:36:27 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 18:36:28 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:36:29 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 18:36:31 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:36:32 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 18:36:56 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:36:57 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 18:37:40 [CLIENT] [INFO] Connecting to 47.94.36.117：25565, 25565
+2022-10-28 18:37:48 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:37:49 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 18:38:02 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:38:04 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:38:05 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:38:14 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:38:17 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:38:18 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:38:19 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:39:06 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:39:08 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:39:09 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:39:10 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:39:11 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:39:11 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:39:13 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:39:13 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:39:14 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:39:15 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:39:16 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:39:17 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:39:18 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:39:18 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:39:47 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:39:48 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:39:49 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:39:50 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:39:51 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:39:52 [CLIENT] [INFO] Connecting to 127.0.0.1, 25565
+2022-10-28 18:39:55 [CLIENT] [INFO] Connecting to 172.29.144.1, 25565
+2022-10-28 18:39:56 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:39:57 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:39:58 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:40:49 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:40:50 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 18:41:03 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:41:08 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:41:13 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:41:18 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:42:29 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 18:42:30 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 18:42:30 [CLIENT] [INFO] [CHAT] shun Joined the game.
+2022-10-28 18:42:34 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 18:42:39 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 18:42:44 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 18:42:46 [CLIENT] [INFO] [CHAT] [FastLogin]登录成功！
+2022-10-28 18:43:14 [CLIENT] [INFO] [CHAT] Unknown command. Type "help" for help.
+2022-10-28 18:44:46 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 18:45:00 [CLIENT] [INFO] Stopping!
+2022-10-28 18:45:19 [CLIENT] [INFO] Setting user: shun
+2022-10-28 18:45:19 [CLIENT] [INFO] (Session ID is ${auth_session})
+2022-10-28 18:45:20 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2022-10-28 18:45:20 [CLIENT] [INFO] Reloading ResourceManager: Default
+2022-10-28 18:45:21 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:CraftGuide, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Jammy Furniture Mod, FMLFileResourcePack:Plant Mega Pack, FMLFileResourcePack:Damage Indicators
+2022-10-28 18:45:23 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:CraftGuide, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Jammy Furniture Mod, FMLFileResourcePack:Plant Mega Pack, FMLFileResourcePack:Damage Indicators
+2022-10-28 18:45:24 [CLIENT] [SEVERE] Realms: Server not available!
+2022-10-28 19:29:40 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 19:45:34 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 19:45:39 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 19:45:43 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 19:46:23 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 19:46:27 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 19:46:50 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 19:46:55 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 19:48:31 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 19:48:35 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 19:48:39 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 19:48:41 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 19:51:12 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 19:55:35 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 19:55:36 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 19:55:36 [CLIENT] [INFO] [CHAT] shun Joined the game.
+2022-10-28 19:55:36 [CLIENT] [INFO] [CHAT] Damage Indicators was unable to check for updates!
+2022-10-28 19:55:41 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 19:55:46 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 19:55:51 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 19:55:56 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 19:55:57 [CLIENT] [INFO] [CHAT] [FastLogin]密码错误！
+2022-10-28 19:56:01 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 19:56:06 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 19:56:09 [CLIENT] [INFO] [CHAT] [FastLogin]登录成功！
+2022-10-28 19:57:14 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 19:57:32 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 19:57:33 [CLIENT] [INFO] [CHAT] shun Joined the game.
+2022-10-28 19:57:33 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 19:57:38 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 19:57:43 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 19:57:48 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 19:57:53 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 19:57:58 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 19:58:03 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 19:58:08 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 19:58:13 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 19:58:18 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 19:58:23 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 19:58:26 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 20:10:01 [CLIENT] [INFO] Stopping!
+2022-10-28 20:12:06 [CLIENT] [INFO] Setting user: shun
+2022-10-28 20:12:06 [CLIENT] [INFO] (Session ID is ${auth_session})
+2022-10-28 20:12:06 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2022-10-28 20:12:07 [CLIENT] [INFO] Reloading ResourceManager: Default
+2022-10-28 20:12:08 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:CraftGuide, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Jammy Furniture Mod, FMLFileResourcePack:Plant Mega Pack, FMLFileResourcePack:Damage Indicators
+2022-10-28 20:12:09 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:CraftGuide, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Jammy Furniture Mod, FMLFileResourcePack:Plant Mega Pack, FMLFileResourcePack:Damage Indicators
+2022-10-28 20:12:11 [CLIENT] [SEVERE] Realms: Server not available!
+2022-10-28 20:12:17 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 20:12:18 [CLIENT] [INFO] [CHAT] shun Joined the game.
+2022-10-28 20:12:18 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 20:12:23 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 20:12:28 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 20:12:33 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 20:12:38 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 20:12:43 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 20:12:48 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 20:12:53 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 20:12:58 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 20:13:03 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 20:13:08 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 20:13:13 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 20:13:18 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 20:13:32 [CLIENT] [INFO] Connecting to 47.94.36.117, 25565
+2022-10-28 20:13:33 [CLIENT] [INFO] [CHAT] shun Joined the game.
+2022-10-28 20:13:33 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 20:13:38 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 20:13:43 [CLIENT] [INFO] [CHAT] [FastLogin]你需要登录后才能操作,使用/login 密码 来登录.
+2022-10-28 20:13:44 [CLIENT] [INFO] [CHAT] [FastLogin]登录成功！
+2022-10-28 20:15:57 [CLIENT] [INFO] [CHAT] shun 试图在岩浆里游泳
+2022-10-28 20:18:58 [CLIENT] [INFO] [CHAT] shun 被 Spider 杀死了
+2022-10-28 20:20:16 [CLIENT] [INFO] [CHAT] Saved screenshot as 2022-10-28_20.20.16.png
+2022-10-28 20:20:26 [CLIENT] [INFO] [CHAT] Saved screenshot as 2022-10-28_20.20.26.png
+2022-10-28 20:21:02 [CLIENT] [INFO] [CHAT] shun 被 Zombie 杀死了
+2022-10-28 20:21:32 [CLIENT] [INFO] [CHAT] shun 被 Zombie 杀死了
+2022-10-28 20:21:36 [CLIENT] [SEVERE] Reached end of stream for /47.94.36.117
+2022-10-28 20:21:37 [CLIENT] [INFO] Stopping!

@@ -54,14 +54,5 @@ key_key.playerlist:15
 key_key.pickItem:-98
 key_OptiFine缩放:29
 key_key.command:53
-key_ALT Key:56
-key_Boost Key:29
-key_Mode Switch Key:50
-key_Side Inventory Key:46
 key_打开合成指南:34
 key_Reposition Mob Portrait:52
-key_waila.keybind.wailaconfig:82
-key_waila.keybind.wailadisplay:79
-key_waila.keybind.liquid:80
-key_waila.keybind.recipe:81
-key_waila.keybind.usage:75
