@@ -2755,3 +2755,56 @@ java.lang.NoSuchMethodError: net.minecraft.src.ModLoader.getMinecraftInstance()L
 2022-07-28 20:20:34 [INFO] Saving chunks for level 'DIM-1'/Nether
 2022-07-28 20:20:34 [INFO] Stopping server
 2022-07-28 20:20:34 [INFO] Saving players
+2022-10-28 15:35:09 [INFO] Starting minecraft server version 1.6.2
+2022-10-28 15:35:09 [INFO] MinecraftForge v
+2022-10-28 15:35:09 [INFO] 9.10.0.804
+2022-10-28 15:35:09 [INFO]  Initialized
+
+2022-10-28 15:35:09 [INFO] Replaced 101 ore recipies
+2022-10-28 15:35:11 [INFO] Loading properties
+2022-10-28 15:35:11 [INFO] Default game type: SURVIVAL
+2022-10-28 15:35:11 [INFO] Generating keypair
+2022-10-28 15:35:11 [INFO] Starting Minecraft server on *:25565
+2022-10-28 15:35:11 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-36 (MC: 1.6.2) (Implementing API version 1.6.2-R0.1-SNAPSHOT)
+2022-10-28 15:35:11 [INFO] Mapping loaded 4 packages, 7388 classes, 25122 fields, 49249 methods, flags fdd6
+2022-10-28 15:35:11 [INFO] Loaded inheritance map of 787 classes
+2022-10-28 15:35:11 [INFO] [GeneralDataCoreV5] Loading GeneralDataCoreV5 v5
+2022-10-28 15:35:11 [INFO] [FastLogin] Loading FastLogin v0.4_D_RE
+2022-10-28 15:35:11 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-10-28 15:35:11 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-10-28 15:35:11 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-10-28 15:35:11 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-10-28 15:35:12 [INFO] Preparing level "world"
+2022-10-28 15:35:12 [INFO] Registered command debug with permission node vanilla.command.debug
+2022-10-28 15:35:12 [INFO] Registered command spreadplayers with permission node vanilla.command.spreadplayers
+2022-10-28 15:35:12 [INFO] Registered command playsound with permission node vanilla.command.playsound
+2022-10-28 15:35:12 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2022-10-28 15:35:12 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 5958978434922792270)
+2022-10-28 15:35:12 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 4197503131016627863)
+2022-10-28 15:35:13 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 5958978434922792270)
+2022-10-28 15:35:13 [INFO] [GeneralDataCoreV5] Enabling GeneralDataCoreV5 v5
+2022-10-28 15:35:13 [INFO] [GeneralDataCoreV5]·通用数据核心 版本:V5
+2022-10-28 15:35:13 [INFO] [FastLogin] Enabling FastLogin v0.4_D_RE
+2022-10-28 15:35:13 [INFO] [FastLogin]版本:0.43-D-RC
+2022-10-28 15:35:13 [INFO] [FastLogin]:检查配置项
+2022-10-28 15:35:13 [INFO] [FastLogin]:写入默认配置项
+2022-10-28 15:35:13 [INFO] [FastLogin]:检查Location配置项
+2022-10-28 15:35:13 [INFO] [FastLogin]:写入默认Location配置项
+2022-10-28 15:35:13 [INFO] [FastLogin]:检查语言配置项
+2022-10-28 15:35:13 [INFO] [FastLogin]:写入默认语言配置项
+2022-10-28 15:35:13 [INFO] [FastLogin]:检查IPCount配置项
+2022-10-28 15:35:13 [INFO] [FastLogin]:写入默认IPCount配置项
+2022-10-28 15:35:13 [INFO] [FastLogin]:读取配置项
+2022-10-28 15:35:13 [INFO] [FastLogin]:读取Location
+2022-10-28 15:35:13 [INFO] [FastLogin]:读取语言配置项
+2022-10-28 15:35:13 [INFO] [FastLogin]:检查配置版本
+2022-10-28 15:35:13 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-10-28 15:35:13 [INFO] Done (1.133s)! For help, type "help" or "?"
+2022-10-28 15:37:47 [SEVERE] Reached end of stream for /127.0.0.1
+2022-10-28 15:37:50 [INFO] shun[/127.0.0.1:60953] logged in with entity id 195 at ([world] -1149.3334575455183, 15.0, 297.3686041498003)
+2022-10-28 15:37:50 [INFO] [FastLogin]:·为玩家创建新的数据文件:shun.gd
+2022-10-28 15:38:14 [INFO] [FastLogin]:玩家:shun正在尝试注册
+2022-10-28 15:38:22 [INFO] [FastLogin]:玩家:shun正在尝试注册
+2022-10-28 15:38:46 [INFO] Connection reset
+2022-10-28 15:38:46 [INFO] shun lost connection: disconnect.quitting
+2022-10-28 15:38:46 [INFO] §eshun Left the game.

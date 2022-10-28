@@ -1,0 +1,14 @@
+@LineType=GeneralDataCore
+@LineVersion=V5
+@KeySeparationSymbol==
+#
+playername=shun
+password=ad1558d8fa941830afe1c10c1ac59789
+register=1
+login=0
+loc.world=world
+loc.x=-1160.3583934459357
+loc.y=16.0
+loc.z=297.5567264205673
+loc.pitch=23.549985885620117
+loc.yaw=264.4422607421875

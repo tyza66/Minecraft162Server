@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "MClauncher": {
+      "name": "MClauncher",
+    },
+    "(Default)": {
+      "name": "(MClauncher)"
+    }
+  },
+  "selectedProfile": "(Default)",
+  "clientToken": "88888888-8888-8888-8888-888888888888"
+}
