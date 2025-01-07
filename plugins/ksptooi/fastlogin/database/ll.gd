@@ -1,0 +1,14 @@
+@LineType=GeneralDataCore
+@LineVersion=V5
+@KeySeparationSymbol==
+#
+playername=ll
+password=#
+register=0
+login=0
+loc.world=null
+loc.x=0.0
+loc.y=0.0
+loc.z=0.0
+loc.pitch=0.0
+loc.yaw=0.0
